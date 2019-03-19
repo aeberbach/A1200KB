@@ -1,0 +1,2276 @@
+EESchema Schematic File Version 4
+LIBS:Example-cache
+EELAYER 26 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title "AMIGA 1200 KEYBOARD"
+Date ""
+Rev "1"
+Comp "ADAM EBERBACH"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 5C6EAD3A
+P 1200 3200
+F 0 "K1" H 1200 3539 60  0000 C CNN
+F 1 "ESC" H 1200 3100 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" V 1200 3433 60  0001 C CNN
+F 3 "" H 1200 3200 60  0000 C CNN
+	1    1200 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 5C7001B7
+P 2400 3200
+F 0 "K2" H 2400 3539 60  0000 C CNN
+F 1 "F1" H 2400 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 2400 3433 60  0001 C CNN
+F 3 "" H 2400 3200 60  0000 C CNN
+	1    2400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 5C70020E
+P 3600 3200
+F 0 "K3" H 3600 3539 60  0000 C CNN
+F 1 "F2" H 3600 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 3600 3433 60  0001 C CNN
+F 3 "" H 3600 3200 60  0000 C CNN
+	1    3600 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 5C70038E
+P 4700 3200
+F 0 "K4" H 4700 3539 60  0000 C CNN
+F 1 "F3" H 4700 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 4700 3433 60  0001 C CNN
+F 3 "" H 4700 3200 60  0000 C CNN
+	1    4700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 5C7003FE
+P 5800 3200
+F 0 "K5" H 5800 3539 60  0000 C CNN
+F 1 "F4" H 5800 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 5800 3433 60  0001 C CNN
+F 3 "" H 5800 3200 60  0000 C CNN
+	1    5800 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 5C700470
+P 6900 3200
+F 0 "K6" H 6900 3539 60  0000 C CNN
+F 1 "F5" H 6900 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 6900 3433 60  0001 C CNN
+F 3 "" H 6900 3200 60  0000 C CNN
+	1    6900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 5C700906
+P 9100 3200
+F 0 "K7" H 9100 3539 60  0000 C CNN
+F 1 "F6" H 9100 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 9100 3433 60  0001 C CNN
+F 3 "" H 9100 3200 60  0000 C CNN
+	1    9100 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K8
+U 1 1 5C700A92
+P 10300 3200
+F 0 "K8" H 10300 3539 60  0000 C CNN
+F 1 "F7" H 10300 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 10300 3433 60  0001 C CNN
+F 3 "" H 10300 3200 60  0000 C CNN
+	1    10300 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K9
+U 1 1 5C700F05
+P 11500 3200
+F 0 "K9" H 11500 3539 60  0000 C CNN
+F 1 "F8" H 11500 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 11500 3433 60  0001 C CNN
+F 3 "" H 11500 3200 60  0000 C CNN
+	1    11500 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K10
+U 1 1 5C700FC5
+P 12700 3200
+F 0 "K10" H 12700 3539 60  0000 C CNN
+F 1 "F9" H 12700 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 12700 3433 60  0001 C CNN
+F 3 "" H 12700 3200 60  0000 C CNN
+	1    12700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K11
+U 1 1 5C701092
+P 13900 3200
+F 0 "K11" H 13900 3539 60  0000 C CNN
+F 1 "F10" H 13900 3433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 13900 3433 60  0001 C CNN
+F 3 "" H 13900 3200 60  0000 C CNN
+	1    13900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K12
+U 1 1 5C701DEC
+P 17400 4200
+F 0 "K12" H 17400 4539 60  0000 C CNN
+F 1 "HELP" H 17400 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 17400 4433 60  0001 C CNN
+F 3 "" H 17400 4200 60  0000 C CNN
+	1    17400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K13
+U 1 1 5C702218
+P 13200 7200
+F 0 "K13" H 13200 7539 60  0000 C CNN
+F 1 "R.SHIFT" H 13200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_2.25u_PCB" H 13200 7433 60  0001 C CNN
+F 3 "" H 13200 7200 60  0000 C CNN
+	1    13200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K14
+U 1 1 5C703BFE
+P 1200 4200
+F 0 "K14" H 1200 4539 60  0000 C CNN
+F 1 "TILDE" H 1200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 1200 4433 60  0001 C CNN
+F 3 "" H 1200 4200 60  0000 C CNN
+	1    1200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K15
+U 1 1 5C703C04
+P 2200 4200
+F 0 "K15" H 2200 4539 60  0000 C CNN
+F 1 "1" H 2200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2200 4433 60  0001 C CNN
+F 3 "" H 2200 4200 60  0000 C CNN
+	1    2200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K16
+U 1 1 5C703C0A
+P 3200 4200
+F 0 "K16" H 3200 4539 60  0000 C CNN
+F 1 "2" H 3200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3200 4433 60  0001 C CNN
+F 3 "" H 3200 4200 60  0000 C CNN
+	1    3200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K17
+U 1 1 5C703C10
+P 4200 4200
+F 0 "K17" H 4200 4539 60  0000 C CNN
+F 1 "3" H 4200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4200 4433 60  0001 C CNN
+F 3 "" H 4200 4200 60  0000 C CNN
+	1    4200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K18
+U 1 1 5C703C16
+P 5200 4200
+F 0 "K18" H 5200 4539 60  0000 C CNN
+F 1 "4" H 5200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5200 4433 60  0001 C CNN
+F 3 "" H 5200 4200 60  0000 C CNN
+	1    5200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K19
+U 1 1 5C703C1C
+P 6200 4200
+F 0 "K19" H 6200 4539 60  0000 C CNN
+F 1 "5" H 6200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6200 4433 60  0001 C CNN
+F 3 "" H 6200 4200 60  0000 C CNN
+	1    6200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K20
+U 1 1 5C703C22
+P 7200 4200
+F 0 "K20" H 7200 4539 60  0000 C CNN
+F 1 "6" H 7200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7200 4433 60  0001 C CNN
+F 3 "" H 7200 4200 60  0000 C CNN
+	1    7200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K21
+U 1 1 5C703C28
+P 8200 4200
+F 0 "K21" H 8200 4539 60  0000 C CNN
+F 1 "7" H 8200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8200 4433 60  0001 C CNN
+F 3 "" H 8200 4200 60  0000 C CNN
+	1    8200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K22
+U 1 1 5C703C2E
+P 9200 4200
+F 0 "K22" H 9200 4539 60  0000 C CNN
+F 1 "8" H 9200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 9200 4433 60  0001 C CNN
+F 3 "" H 9200 4200 60  0000 C CNN
+	1    9200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K23
+U 1 1 5C703C34
+P 10200 4200
+F 0 "K23" H 10200 4539 60  0000 C CNN
+F 1 "9" H 10200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 10200 4433 60  0001 C CNN
+F 3 "" H 10200 4200 60  0000 C CNN
+	1    10200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K24
+U 1 1 5C703C3A
+P 11200 4200
+F 0 "K24" H 11200 4539 60  0000 C CNN
+F 1 "0" H 11200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 11200 4433 60  0001 C CNN
+F 3 "" H 11200 4200 60  0000 C CNN
+	1    11200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K25
+U 1 1 5C703C40
+P 12200 4200
+F 0 "K25" H 12200 4539 60  0000 C CNN
+F 1 "MINUS" H 12200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 12200 4433 60  0001 C CNN
+F 3 "" H 12200 4200 60  0000 C CNN
+	1    12200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K26
+U 1 1 5C703C46
+P 13200 4200
+F 0 "K26" H 13200 4539 60  0000 C CNN
+F 1 "PLUS" H 13200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 13200 4433 60  0001 C CNN
+F 3 "" H 13200 4200 60  0000 C CNN
+	1    13200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K27
+U 1 1 5C703C4C
+P 14200 4200
+F 0 "K27" H 14200 4539 60  0000 C CNN
+F 1 "PIPE" H 14200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 14200 4433 60  0001 C CNN
+F 3 "" H 14200 4200 60  0000 C CNN
+	1    14200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K28
+U 1 1 5C703C52
+P 16900 6200
+F 0 "K28" H 16900 6539 60  0000 C CNN
+F 1 "UP" H 16900 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 16900 6433 60  0001 C CNN
+F 3 "" H 16900 6200 60  0000 C CNN
+	1    16900 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K30
+U 1 1 5C706FAD
+P 1200 5200
+F 0 "K30" H 1200 5539 60  0000 C CNN
+F 1 "TAB" H 1200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB" H 1200 5433 60  0001 C CNN
+F 3 "" H 1200 5200 60  0000 C CNN
+	1    1200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K31
+U 1 1 5C706FB3
+P 2200 5200
+F 0 "K31" H 2200 5539 60  0000 C CNN
+F 1 "Q" H 2200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2200 5433 60  0001 C CNN
+F 3 "" H 2200 5200 60  0000 C CNN
+	1    2200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K32
+U 1 1 5C706FB9
+P 3200 5200
+F 0 "K32" H 3200 5539 60  0000 C CNN
+F 1 "W" H 3200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3200 5433 60  0001 C CNN
+F 3 "" H 3200 5200 60  0000 C CNN
+	1    3200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K33
+U 1 1 5C706FBF
+P 4200 5200
+F 0 "K33" H 4200 5539 60  0000 C CNN
+F 1 "E" H 4200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4200 5433 60  0001 C CNN
+F 3 "" H 4200 5200 60  0000 C CNN
+	1    4200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K34
+U 1 1 5C706FC5
+P 5200 5200
+F 0 "K34" H 5200 5539 60  0000 C CNN
+F 1 "R" H 5200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5200 5433 60  0001 C CNN
+F 3 "" H 5200 5200 60  0000 C CNN
+	1    5200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K35
+U 1 1 5C706FCB
+P 6200 5200
+F 0 "K35" H 6200 5539 60  0000 C CNN
+F 1 "T" H 6200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6200 5433 60  0001 C CNN
+F 3 "" H 6200 5200 60  0000 C CNN
+	1    6200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K36
+U 1 1 5C706FD1
+P 7200 5200
+F 0 "K36" H 7200 5539 60  0000 C CNN
+F 1 "Y" H 7200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7200 5433 60  0001 C CNN
+F 3 "" H 7200 5200 60  0000 C CNN
+	1    7200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K37
+U 1 1 5C706FD7
+P 8200 5200
+F 0 "K37" H 8200 5539 60  0000 C CNN
+F 1 "U" H 8200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8200 5433 60  0001 C CNN
+F 3 "" H 8200 5200 60  0000 C CNN
+	1    8200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K38
+U 1 1 5C706FDD
+P 9200 5200
+F 0 "K38" H 9200 5539 60  0000 C CNN
+F 1 "I" H 9200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 9200 5433 60  0001 C CNN
+F 3 "" H 9200 5200 60  0000 C CNN
+	1    9200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K39
+U 1 1 5C706FE3
+P 10200 5200
+F 0 "K39" H 10200 5539 60  0000 C CNN
+F 1 "O" H 10200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 10200 5433 60  0001 C CNN
+F 3 "" H 10200 5200 60  0000 C CNN
+	1    10200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K40
+U 1 1 5C706FE9
+P 11200 5200
+F 0 "K40" H 11200 5539 60  0000 C CNN
+F 1 "P" H 11200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 11200 5433 60  0001 C CNN
+F 3 "" H 11200 5200 60  0000 C CNN
+	1    11200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K41
+U 1 1 5C706FEF
+P 12200 5200
+F 0 "K41" H 12200 5539 60  0000 C CNN
+F 1 "L.CURLY" H 12200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 12200 5433 60  0001 C CNN
+F 3 "" H 12200 5200 60  0000 C CNN
+	1    12200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K42
+U 1 1 5C706FF5
+P 13200 5200
+F 0 "K42" H 13200 5539 60  0000 C CNN
+F 1 "R.CURLY" H 13200 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 13200 5433 60  0001 C CNN
+F 3 "" H 13200 5200 60  0000 C CNN
+	1    13200 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K43
+U 1 1 5C706FFB
+P 14700 5200
+F 0 "K43" H 14700 5539 60  0000 C CNN
+F 1 "RETURN" H 14700 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_ISOEnter_PCB" H 14700 5433 60  0001 C CNN
+F 3 "" H 14700 5200 60  0000 C CNN
+	1    14700 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K44
+U 1 1 5C707001
+P 15900 7200
+F 0 "K44" H 15900 7539 60  0000 C CNN
+F 1 "LEFT" H 15900 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 15900 7433 60  0001 C CNN
+F 3 "" H 15900 7200 60  0000 C CNN
+	1    15900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K45
+U 1 1 5C707007
+P 12600 8200
+F 0 "K45" H 12600 8539 60  0000 C CNN
+F 1 "R.AMIGA" H 12600 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 12600 8433 60  0001 C CNN
+F 3 "" H 12600 8200 60  0000 C CNN
+	1    12600 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K46
+U 1 1 5C8AE443
+P 2200 6200
+F 0 "K46" H 2200 6539 60  0000 C CNN
+F 1 "CAPSLOCK" H 2200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2200 6433 60  0001 C CNN
+F 3 "" H 2200 6200 60  0000 C CNN
+	1    2200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K47
+U 1 1 5C8AE449
+P 3200 6200
+F 0 "K47" H 3200 6539 60  0000 C CNN
+F 1 "A" H 3200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3200 6433 60  0001 C CNN
+F 3 "" H 3200 6200 60  0000 C CNN
+	1    3200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K48
+U 1 1 5C8AE44F
+P 4200 6200
+F 0 "K48" H 4200 6539 60  0000 C CNN
+F 1 "S" H 4200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4200 6433 60  0001 C CNN
+F 3 "" H 4200 6200 60  0000 C CNN
+	1    4200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K49
+U 1 1 5C8AE455
+P 5200 6200
+F 0 "K49" H 5200 6539 60  0000 C CNN
+F 1 "D" H 5200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5200 6433 60  0001 C CNN
+F 3 "" H 5200 6200 60  0000 C CNN
+	1    5200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K50
+U 1 1 5C8AE45B
+P 6200 6200
+F 0 "K50" H 6200 6539 60  0000 C CNN
+F 1 "F" H 6200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6200 6433 60  0001 C CNN
+F 3 "" H 6200 6200 60  0000 C CNN
+	1    6200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K51
+U 1 1 5C8AE461
+P 7200 6200
+F 0 "K51" H 7200 6539 60  0000 C CNN
+F 1 "G" H 7200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7200 6433 60  0001 C CNN
+F 3 "" H 7200 6200 60  0000 C CNN
+	1    7200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K52
+U 1 1 5C8AE467
+P 8200 6200
+F 0 "K52" H 8200 6539 60  0000 C CNN
+F 1 "H" H 8200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8200 6433 60  0001 C CNN
+F 3 "" H 8200 6200 60  0000 C CNN
+	1    8200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K53
+U 1 1 5C8AE46D
+P 9200 6200
+F 0 "K53" H 9200 6539 60  0000 C CNN
+F 1 "J" H 9200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 9200 6433 60  0001 C CNN
+F 3 "" H 9200 6200 60  0000 C CNN
+	1    9200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K54
+U 1 1 5C8AE473
+P 10200 6200
+F 0 "K54" H 10200 6539 60  0000 C CNN
+F 1 "K" H 10200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 10200 6433 60  0001 C CNN
+F 3 "" H 10200 6200 60  0000 C CNN
+	1    10200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K55
+U 1 1 5C8AE479
+P 11200 6200
+F 0 "K55" H 11200 6539 60  0000 C CNN
+F 1 "L" H 11200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 11200 6433 60  0001 C CNN
+F 3 "" H 11200 6200 60  0000 C CNN
+	1    11200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K56
+U 1 1 5C8AE47F
+P 12200 6200
+F 0 "K56" H 12200 6539 60  0000 C CNN
+F 1 "COLON" H 12200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 12200 6433 60  0001 C CNN
+F 3 "" H 12200 6200 60  0000 C CNN
+	1    12200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K57
+U 1 1 5C8AE485
+P 13200 6200
+F 0 "K57" H 13200 6539 60  0000 C CNN
+F 1 "\"" H 13200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 13200 6433 60  0001 C CNN
+F 3 "" H 13200 6200 60  0000 C CNN
+	1    13200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K58
+U 1 1 5C8AE491
+P 16400 4200
+F 0 "K58" H 16400 4539 60  0000 C CNN
+F 1 "DEL" H 16400 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.50u_PCB" H 16400 4433 60  0001 C CNN
+F 3 "" H 16400 4200 60  0000 C CNN
+	1    16400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K59
+U 1 1 5C8AE497
+P 17900 7200
+F 0 "K59" H 17900 7539 60  0000 C CNN
+F 1 "RIGHT" H 17900 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 17900 7433 60  0001 C CNN
+F 3 "" H 17900 7200 60  0000 C CNN
+	1    17900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K60
+U 1 1 5C8AE49D
+P 1200 6200
+F 0 "K60" H 1200 6539 60  0000 C CNN
+F 1 "CTRL" H 1200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 1200 6433 60  0001 C CNN
+F 3 "" H 1200 6200 60  0000 C CNN
+	1    1200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K61
+U 1 1 5C8BA85E
+P 3200 7200
+F 0 "K61" H 3200 7539 60  0000 C CNN
+F 1 "Z" H 3200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 3200 7433 60  0001 C CNN
+F 3 "" H 3200 7200 60  0000 C CNN
+	1    3200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K62
+U 1 1 5C8BA864
+P 4200 7200
+F 0 "K62" H 4200 7539 60  0000 C CNN
+F 1 "X" H 4200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 4200 7433 60  0001 C CNN
+F 3 "" H 4200 7200 60  0000 C CNN
+	1    4200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K63
+U 1 1 5C8BA86A
+P 5200 7200
+F 0 "K63" H 5200 7539 60  0000 C CNN
+F 1 "C" H 5200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 5200 7433 60  0001 C CNN
+F 3 "" H 5200 7200 60  0000 C CNN
+	1    5200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K64
+U 1 1 5C8BA870
+P 6200 7200
+F 0 "K64" H 6200 7539 60  0000 C CNN
+F 1 "V" H 6200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 6200 7433 60  0001 C CNN
+F 3 "" H 6200 7200 60  0000 C CNN
+	1    6200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K65
+U 1 1 5C8BA876
+P 7200 7200
+F 0 "K65" H 7200 7539 60  0000 C CNN
+F 1 "B" H 7200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 7200 7433 60  0001 C CNN
+F 3 "" H 7200 7200 60  0000 C CNN
+	1    7200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K66
+U 1 1 5C8BA87C
+P 8200 7200
+F 0 "K66" H 8200 7539 60  0000 C CNN
+F 1 "N" H 8200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 8200 7433 60  0001 C CNN
+F 3 "" H 8200 7200 60  0000 C CNN
+	1    8200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K67
+U 1 1 5C8BA882
+P 9200 7200
+F 0 "K67" H 9200 7539 60  0000 C CNN
+F 1 "M" H 9200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 9200 7433 60  0001 C CNN
+F 3 "" H 9200 7200 60  0000 C CNN
+	1    9200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K68
+U 1 1 5C8BA888
+P 11200 7200
+F 0 "K68" H 11200 7539 60  0000 C CNN
+F 1 "L.CROC" H 11200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 11200 7433 60  0001 C CNN
+F 3 "" H 11200 7200 60  0000 C CNN
+	1    11200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K69
+U 1 1 5C8BA88E
+P 10200 7200
+F 0 "K69" H 10200 7539 60  0000 C CNN
+F 1 "R.CROC" H 10200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 10200 7433 60  0001 C CNN
+F 3 "" H 10200 7200 60  0000 C CNN
+	1    10200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K70
+U 1 1 5C8BA894
+P 12200 7200
+F 0 "K70" H 12200 7539 60  0000 C CNN
+F 1 "QUESTION" H 12200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 12200 7433 60  0001 C CNN
+F 3 "" H 12200 7200 60  0000 C CNN
+	1    12200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K71
+U 1 1 5C8BA8A0
+P 6400 8200
+F 0 "K71" H 6400 8539 60  0000 C CNN
+F 1 "SPACE" H 6400 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_6.25u_PCB" H 6400 8433 60  0001 C CNN
+F 3 "" H 6400 8200 60  0000 C CNN
+	1    6400 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K72
+U 1 1 5C8BA8A6
+P 15200 4200
+F 0 "K72" H 15200 4539 60  0000 C CNN
+F 1 "BS" H 15200 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 15200 4433 60  0001 C CNN
+F 3 "" H 15200 4200 60  0000 C CNN
+	1    15200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K73
+U 1 1 5C8BA8AC
+P 16900 7200
+F 0 "K73" H 16900 7539 60  0000 C CNN
+F 1 "DOWN" H 16900 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 16900 7433 60  0001 C CNN
+F 3 "" H 16900 7200 60  0000 C CNN
+	1    16900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K74
+U 1 1 5C8BA8B2
+P 1200 7200
+F 0 "K74" H 1200 7539 60  0000 C CNN
+F 1 "L.SHIFT" H 1200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.75u_PCB" H 1200 7433 60  0001 C CNN
+F 3 "" H 1200 7200 60  0000 C CNN
+	1    1200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K75
+U 1 1 5C8C4823
+P 21100 5200
+F 0 "K75" H 21100 5539 60  0000 C CNN
+F 1 "NUM_9" H 21100 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 21100 5433 60  0001 C CNN
+F 3 "" H 21100 5200 60  0000 C CNN
+	1    21100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K76
+U 1 1 5C8C4829
+P 21100 6200
+F 0 "K76" H 21100 6539 60  0000 C CNN
+F 1 "NUM_6" H 21100 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 21100 6433 60  0001 C CNN
+F 3 "" H 21100 6200 60  0000 C CNN
+	1    21100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K77
+U 1 1 5C8C482F
+P 21100 7200
+F 0 "K77" H 21100 7539 60  0000 C CNN
+F 1 "NUM_3" H 21100 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 21100 7433 60  0001 C CNN
+F 3 "" H 21100 7200 60  0000 C CNN
+	1    21100 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K78
+U 1 1 5C8C4835
+P 21100 8200
+F 0 "K78" H 21100 8539 60  0000 C CNN
+F 1 "NUM_DECIMAL" H 21100 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 21100 8433 60  0001 C CNN
+F 3 "" H 21100 8200 60  0000 C CNN
+	1    21100 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K79
+U 1 1 5C8C483B
+P 20100 5200
+F 0 "K79" H 20100 5539 60  0000 C CNN
+F 1 "NUM_8" H 20100 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 20100 5433 60  0001 C CNN
+F 3 "" H 20100 5200 60  0000 C CNN
+	1    20100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K80
+U 1 1 5C8C4841
+P 20100 6200
+F 0 "K80" H 20100 6539 60  0000 C CNN
+F 1 "NUM_5" H 20100 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 20100 6433 60  0001 C CNN
+F 3 "" H 20100 6200 60  0000 C CNN
+	1    20100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K81
+U 1 1 5C8C4847
+P 20100 7200
+F 0 "K81" H 20100 7539 60  0000 C CNN
+F 1 "NUM_2" H 20100 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 20100 7433 60  0001 C CNN
+F 3 "" H 20100 7200 60  0000 C CNN
+	1    20100 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K82
+U 1 1 5C8C484D
+P 22100 7600
+F 0 "K82" H 22100 7939 60  0000 C CNN
+F 1 "NUM_ENTER" H 22100 7833 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_Vertical_PCB" H 22100 7833 60  0001 C CNN
+F 3 "" H 22100 7600 60  0000 C CNN
+	1    22100 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K83
+U 1 1 5C8C4853
+P 19100 5200
+F 0 "K83" H 19100 5539 60  0000 C CNN
+F 1 "NUM_7" H 19100 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 19100 5433 60  0001 C CNN
+F 3 "" H 19100 5200 60  0000 C CNN
+	1    19100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K84
+U 1 1 5C8C4859
+P 19100 6200
+F 0 "K84" H 19100 6539 60  0000 C CNN
+F 1 "NUM_4" H 19100 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 19100 6433 60  0001 C CNN
+F 3 "" H 19100 6200 60  0000 C CNN
+	1    19100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K85
+U 1 1 5C8C485F
+P 19100 7200
+F 0 "K85" H 19100 7539 60  0000 C CNN
+F 1 "NUM_1" H 19100 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 19100 7433 60  0001 C CNN
+F 3 "" H 19100 7200 60  0000 C CNN
+	1    19100 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K86
+U 1 1 5C8C4865
+P 19600 8200
+F 0 "K86" H 19600 8539 60  0000 C CNN
+F 1 "NUM_0" H 19600 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB" H 19600 8433 60  0001 C CNN
+F 3 "" H 19600 8200 60  0000 C CNN
+	1    19600 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K87
+U 1 1 5C8C486B
+P 22100 5200
+F 0 "K87" H 22100 5539 60  0000 C CNN
+F 1 "NUM_MINUS" H 22100 5433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 22100 5433 60  0001 C CNN
+F 3 "" H 22100 5200 60  0000 C CNN
+	1    22100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K88
+U 1 1 5C8C4871
+P 1800 8200
+F 0 "K88" H 1800 8539 60  0000 C CNN
+F 1 "L.ALT" H 1800 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 1800 8433 60  0001 C CNN
+F 3 "" H 1800 8200 60  0000 C CNN
+	1    1800 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K89
+U 1 1 5C93F696
+P 2800 8200
+F 0 "K89" H 2800 8539 60  0000 C CNN
+F 1 "L.AMIGA" H 2800 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 2800 8433 60  0001 C CNN
+F 3 "" H 2800 8200 60  0000 C CNN
+	1    2800 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K95
+U 1 1 5C9F4ADB
+P 14200 6200
+F 0 "K95" H 14200 6539 60  0000 C CNN
+F 1 "R.BLANK" H 14200 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 14200 6433 60  0001 C CNN
+F 3 "" H 14200 6200 60  0000 C CNN
+	1    14200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K96
+U 1 1 5C9FD949
+P 2200 7200
+F 0 "K96" H 2200 7539 60  0000 C CNN
+F 1 "L.BLANK" H 2200 7433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 2200 7433 60  0001 C CNN
+F 3 "" H 2200 7200 60  0000 C CNN
+	1    2200 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K90
+U 1 1 5CA5EDCB
+P 22100 4200
+F 0 "K90" H 22100 4539 60  0000 C CNN
+F 1 "NUM_MULT" H 22100 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 22100 4433 60  0001 C CNN
+F 3 "" H 22100 4200 60  0000 C CNN
+	1    22100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K91
+U 1 1 5CA60B25
+P 21100 4200
+F 0 "K91" H 21100 4539 60  0000 C CNN
+F 1 "NUM_DIV" H 21100 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 21100 4433 60  0001 C CNN
+F 3 "" H 21100 4200 60  0000 C CNN
+	1    21100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K92
+U 1 1 5CA628C4
+P 20100 4200
+F 0 "K92" H 20100 4539 60  0000 C CNN
+F 1 "NUM_)" H 20100 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 20100 4433 60  0001 C CNN
+F 3 "" H 20100 4200 60  0000 C CNN
+	1    20100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K93
+U 1 1 5CA6394E
+P 19100 4200
+F 0 "K93" H 19100 4539 60  0000 C CNN
+F 1 "NUM_(" H 19100 4433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 19100 4433 60  0001 C CNN
+F 3 "" H 19100 4200 60  0000 C CNN
+	1    19100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K94
+U 1 1 5CA67D7B
+P 22100 6200
+F 0 "K94" H 22100 6539 60  0000 C CNN
+F 1 "NUM_PLUS" H 22100 6433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB" H 22100 6433 60  0001 C CNN
+F 3 "" H 22100 6200 60  0000 C CNN
+	1    22100 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x31_Female J1
+U 1 1 5C6E532F
+P 8200 1100
+F 0 "J1" V 8365 1080 50  0000 C CNN
+F 1 "31_WAY_CONN" V 8274 1080 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x17_P2.54mm_Vertical" H 8200 1100 50  0001 C CNN
+F 3 "~" H 8200 1100 50  0001 C CNN
+	1    8200 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6700 1300 6700 1750
+Wire Wire Line
+	6700 1750 800  1750
+Wire Wire Line
+	800  1750 800  5200
+Wire Wire Line
+	800  5200 900  5200
+Wire Wire Line
+	900  5200 900  5300
+Connection ~ 900  5200
+Wire Wire Line
+	900  5300 2500 5300
+Wire Wire Line
+	2500 5300 2500 5200
+Wire Wire Line
+	2500 5300 3500 5300
+Wire Wire Line
+	3500 5300 3500 5200
+Connection ~ 2500 5300
+Wire Wire Line
+	3500 5300 4500 5300
+Wire Wire Line
+	4500 5300 4500 5200
+Connection ~ 3500 5300
+Wire Wire Line
+	4500 5300 5500 5300
+Wire Wire Line
+	5500 5300 5500 5200
+Connection ~ 4500 5300
+Wire Wire Line
+	5500 5300 6500 5300
+Wire Wire Line
+	6500 5300 6500 5200
+Connection ~ 5500 5300
+Connection ~ 6500 5300
+Wire Wire Line
+	8500 5300 8500 5200
+Wire Wire Line
+	8500 5300 9500 5300
+Wire Wire Line
+	9500 5300 9500 5200
+Connection ~ 8500 5300
+Wire Wire Line
+	9500 5300 10500 5300
+Wire Wire Line
+	10500 5300 10500 5200
+Connection ~ 9500 5300
+Wire Wire Line
+	10500 5300 11500 5300
+Wire Wire Line
+	11500 5300 11500 5200
+Connection ~ 10500 5300
+Wire Wire Line
+	11500 5300 12500 5300
+Wire Wire Line
+	12500 5300 12500 5200
+Connection ~ 11500 5300
+Wire Wire Line
+	12500 5300 13500 5300
+Wire Wire Line
+	13500 5300 13500 5200
+Connection ~ 12500 5300
+Wire Wire Line
+	13500 5300 14400 5300
+Wire Wire Line
+	14400 5300 14400 5200
+Connection ~ 13500 5300
+Wire Wire Line
+	6800 1300 6800 1800
+Wire Wire Line
+	6800 1800 1800 1800
+Wire Wire Line
+	1800 1800 1800 6300
+Wire Wire Line
+	1800 6300 2500 6300
+Wire Wire Line
+	2500 6300 2500 6200
+Wire Wire Line
+	2500 6300 3500 6300
+Wire Wire Line
+	3500 6300 3500 6200
+Connection ~ 2500 6300
+Wire Wire Line
+	3500 6300 4500 6300
+Wire Wire Line
+	4500 6300 4500 6200
+Connection ~ 3500 6300
+Wire Wire Line
+	4500 6300 5500 6300
+Wire Wire Line
+	5500 6300 5500 6200
+Connection ~ 4500 6300
+Wire Wire Line
+	5500 6300 6500 6300
+Wire Wire Line
+	6500 6300 6500 6200
+Connection ~ 5500 6300
+Wire Wire Line
+	6500 6300 7500 6300
+Wire Wire Line
+	7500 6300 7500 6200
+Connection ~ 6500 6300
+Wire Wire Line
+	7500 6300 7900 6300
+Wire Wire Line
+	7900 6300 7900 6200
+Connection ~ 7500 6300
+Wire Wire Line
+	7900 6300 9500 6300
+Wire Wire Line
+	9500 6300 9500 6200
+Connection ~ 7900 6300
+Wire Wire Line
+	9500 6300 10500 6300
+Wire Wire Line
+	10500 6300 10500 6200
+Connection ~ 9500 6300
+Wire Wire Line
+	10500 6300 11500 6300
+Wire Wire Line
+	11500 6300 11500 6200
+Connection ~ 10500 6300
+Wire Wire Line
+	11500 6300 12500 6300
+Wire Wire Line
+	12500 6300 12500 6200
+Connection ~ 11500 6300
+Wire Wire Line
+	12500 6300 13500 6300
+Wire Wire Line
+	13500 6300 13500 6200
+Connection ~ 12500 6300
+Wire Wire Line
+	13500 6300 14500 6300
+Wire Wire Line
+	14500 6300 14500 6200
+Connection ~ 13500 6300
+Wire Wire Line
+	14400 5300 16200 5300
+Wire Wire Line
+	16200 5300 16200 7200
+Connection ~ 14400 5300
+Wire Wire Line
+	14500 6300 18200 6300
+Wire Wire Line
+	18200 6300 18200 7200
+Connection ~ 14500 6300
+Wire Wire Line
+	6900 1300 6900 1850
+Wire Wire Line
+	6900 1850 1750 1850
+Wire Wire Line
+	1750 1850 1750 7300
+Wire Wire Line
+	1750 7300 2500 7300
+Wire Wire Line
+	2500 7300 2500 7200
+Wire Wire Line
+	2500 7300 3500 7300
+Wire Wire Line
+	3500 7300 3500 7200
+Connection ~ 2500 7300
+Wire Wire Line
+	3500 7300 4500 7300
+Wire Wire Line
+	4500 7300 4500 7200
+Connection ~ 3500 7300
+Wire Wire Line
+	4500 7300 5500 7300
+Wire Wire Line
+	5500 7300 5500 7200
+Connection ~ 4500 7300
+Wire Wire Line
+	5500 7300 6500 7300
+Wire Wire Line
+	6500 7300 6500 7200
+Connection ~ 5500 7300
+Wire Wire Line
+	6500 7300 6700 7300
+Wire Wire Line
+	7500 7300 7500 7200
+Connection ~ 6500 7300
+Wire Wire Line
+	7500 7300 7900 7300
+Wire Wire Line
+	7900 7300 7900 7200
+Connection ~ 7500 7300
+Wire Wire Line
+	7900 7300 9500 7300
+Wire Wire Line
+	9500 7300 9500 7200
+Connection ~ 7900 7300
+Wire Wire Line
+	11500 7300 11500 7200
+Wire Wire Line
+	9500 7300 10500 7300
+Wire Wire Line
+	10500 7300 10500 7200
+Connection ~ 9500 7300
+Wire Wire Line
+	10500 7300 11500 7300
+Connection ~ 10500 7300
+Wire Wire Line
+	11500 7300 12500 7300
+Wire Wire Line
+	12500 7300 12500 7200
+Connection ~ 11500 7300
+Wire Wire Line
+	12500 7300 16600 7300
+Wire Wire Line
+	16600 7300 16600 7200
+Connection ~ 12500 7300
+Wire Wire Line
+	22400 7600 22400 8300
+Wire Wire Line
+	22400 8300 21400 8300
+Wire Wire Line
+	21400 8300 21400 8200
+Wire Wire Line
+	21400 8300 20400 8300
+Wire Wire Line
+	19300 8300 19300 8200
+Connection ~ 21400 8300
+Wire Wire Line
+	22400 7600 22400 6200
+Connection ~ 22400 7600
+Wire Wire Line
+	22400 6200 22400 5200
+Connection ~ 22400 6200
+Wire Wire Line
+	22400 5200 22400 4200
+Connection ~ 22400 5200
+Wire Wire Line
+	21400 5200 21400 6200
+Wire Wire Line
+	21400 6200 21400 7200
+Connection ~ 21400 6200
+Wire Wire Line
+	21400 7200 21400 8200
+Connection ~ 21400 7200
+Connection ~ 21400 8200
+Wire Wire Line
+	20400 5200 20400 6200
+Wire Wire Line
+	20400 6200 20400 7200
+Connection ~ 20400 6200
+Wire Wire Line
+	20400 7200 20400 8300
+Connection ~ 20400 7200
+Connection ~ 20400 8300
+Wire Wire Line
+	20400 8300 19300 8300
+Wire Wire Line
+	19400 5200 19400 6200
+Wire Wire Line
+	19400 6200 19400 7200
+Connection ~ 19400 6200
+Wire Wire Line
+	19400 7200 19400 7800
+Wire Wire Line
+	19400 7800 19300 7800
+Wire Wire Line
+	19300 7800 19300 8200
+Connection ~ 19400 7200
+Connection ~ 19300 8200
+Wire Wire Line
+	22400 4200 22400 1850
+Wire Wire Line
+	22400 1850 7000 1850
+Wire Wire Line
+	7000 1850 7000 1300
+Connection ~ 22400 4200
+Wire Wire Line
+	7100 1300 7100 1900
+Wire Wire Line
+	7100 1900 750  1900
+Wire Wire Line
+	2700 3300 2700 3200
+Wire Wire Line
+	3900 3300 3900 3200
+Wire Wire Line
+	5000 3300 5000 3200
+Wire Wire Line
+	6100 3300 6100 3200
+Wire Wire Line
+	750  1900 750  4300
+Wire Wire Line
+	2500 4300 2500 4200
+Wire Wire Line
+	2500 4300 3500 4300
+Wire Wire Line
+	3500 4300 3500 4200
+Connection ~ 2500 4300
+Wire Wire Line
+	3500 4300 4500 4300
+Wire Wire Line
+	4500 4300 4500 4200
+Connection ~ 3500 4300
+Wire Wire Line
+	4500 4300 5500 4300
+Wire Wire Line
+	5500 4300 5500 4200
+Connection ~ 4500 4300
+Wire Wire Line
+	5500 4300 6500 4300
+Wire Wire Line
+	6500 4300 6500 4200
+Connection ~ 5500 4300
+Wire Wire Line
+	6500 4300 6900 4300
+Wire Wire Line
+	6900 4300 6900 4200
+Connection ~ 6500 4300
+Wire Wire Line
+	6900 4300 8500 4300
+Wire Wire Line
+	8500 4300 8500 4200
+Connection ~ 6900 4300
+Wire Wire Line
+	8500 4300 8900 4300
+Wire Wire Line
+	8900 4300 8900 4200
+Connection ~ 8500 4300
+Wire Wire Line
+	8900 4300 10500 4300
+Wire Wire Line
+	10500 4300 10500 4200
+Connection ~ 8900 4300
+Wire Wire Line
+	10500 4300 11500 4300
+Wire Wire Line
+	11500 4300 11500 4200
+Connection ~ 10500 4300
+Wire Wire Line
+	11500 4300 12500 4300
+Wire Wire Line
+	12500 4300 12500 4200
+Connection ~ 11500 4300
+Wire Wire Line
+	12500 4300 13500 4300
+Wire Wire Line
+	13500 4300 13500 4200
+Connection ~ 12500 4300
+Wire Wire Line
+	13500 4300 13900 4300
+Wire Wire Line
+	13900 4300 13900 4200
+Connection ~ 13500 4300
+Wire Wire Line
+	7200 1300 7200 1900
+Wire Wire Line
+	7200 1900 15950 1900
+Wire Wire Line
+	15950 1900 15950 6400
+Wire Wire Line
+	15950 6400 12900 6400
+Wire Wire Line
+	12900 6400 12900 7200
+Wire Wire Line
+	7300 1300 7300 1950
+Wire Wire Line
+	7300 1950 1500 1950
+Wire Wire Line
+	1500 1950 1500 3200
+Wire Wire Line
+	1500 3200 1500 3300
+Wire Wire Line
+	1500 3300 2700 3300
+Connection ~ 1500 3200
+Wire Wire Line
+	2700 3300 3900 3300
+Connection ~ 2700 3300
+Wire Wire Line
+	3900 3300 5000 3300
+Connection ~ 3900 3300
+Wire Wire Line
+	5000 3300 6100 3300
+Connection ~ 5000 3300
+Wire Wire Line
+	6100 3300 7200 3300
+Wire Wire Line
+	7200 3300 7200 3200
+Connection ~ 6100 3300
+Wire Wire Line
+	7200 3300 8800 3300
+Wire Wire Line
+	8800 3300 8800 3200
+Connection ~ 7200 3300
+Wire Wire Line
+	8800 3300 10600 3300
+Wire Wire Line
+	10600 3300 10600 3200
+Connection ~ 8800 3300
+Wire Wire Line
+	10600 3300 11800 3300
+Wire Wire Line
+	11800 3300 11800 3200
+Connection ~ 10600 3300
+Wire Wire Line
+	11800 3300 13000 3300
+Wire Wire Line
+	13000 3300 13000 3200
+Connection ~ 11800 3300
+Wire Wire Line
+	13000 3300 14200 3300
+Wire Wire Line
+	14200 3300 14200 3200
+Connection ~ 13000 3300
+Wire Wire Line
+	14200 3300 18700 3300
+Wire Wire Line
+	18700 3300 18700 4300
+Wire Wire Line
+	18700 4300 19400 4300
+Wire Wire Line
+	19400 4300 19400 4200
+Connection ~ 14200 3300
+Wire Wire Line
+	19400 4300 20400 4300
+Wire Wire Line
+	20400 4300 20400 4200
+Connection ~ 19400 4300
+Wire Wire Line
+	20400 4300 21400 4300
+Wire Wire Line
+	21400 4300 21400 4200
+Connection ~ 20400 4300
+Wire Wire Line
+	7400 1300 7400 1800
+Wire Wire Line
+	7400 1800 16000 1800
+$Comp
+L Device:LED D1
+U 1 1 5CC33DBB
+P 2200 5650
+F 0 "D1" H 2191 5866 50  0000 C CNN
+F 1 "LED" H 2191 5775 50  0000 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 2200 5650 50  0001 C CNN
+F 3 "~" H 2200 5650 50  0001 C CNN
+	1    2200 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 1300 7500 2000
+Wire Wire Line
+	7500 2000 2800 2000
+Wire Wire Line
+	2800 2000 2800 5650
+Wire Wire Line
+	2800 5650 2350 5650
+Wire Wire Line
+	7600 1300 7600 1950
+Wire Wire Line
+	7600 1950 15900 1950
+Wire Wire Line
+	7700 1300 7700 2050
+Wire Wire Line
+	7700 2050 1700 2050
+Wire Wire Line
+	1700 2050 1700 6200
+Wire Wire Line
+	1700 6200 1500 6200
+Wire Wire Line
+	7800 1300 7800 2100
+Wire Wire Line
+	7800 2100 1650 2100
+Wire Wire Line
+	1650 2100 1650 7200
+Wire Wire Line
+	1650 7200 1500 7200
+Wire Wire Line
+	7900 1300 7900 2150
+Wire Wire Line
+	7900 2150 2750 2150
+Wire Wire Line
+	2750 2150 2750 7500
+Wire Wire Line
+	2750 7500 2100 7500
+Wire Wire Line
+	2100 7500 2100 8200
+Wire Wire Line
+	8000 1300 8000 2200
+Wire Wire Line
+	8000 2200 2850 2200
+Wire Wire Line
+	2850 2200 2850 7500
+Wire Wire Line
+	2850 7500 3100 7500
+Wire Wire Line
+	3100 7500 3100 8200
+Wire Wire Line
+	8100 1300 8100 1700
+Wire Wire Line
+	8100 1700 900  1700
+Wire Wire Line
+	900  1700 900  3200
+Wire Wire Line
+	8200 1300 8200 2250
+Wire Wire Line
+	8200 2250 2900 2250
+Wire Wire Line
+	2900 2250 2900 3350
+Wire Wire Line
+	2900 3350 1900 3350
+Wire Wire Line
+	1900 3350 1900 4200
+Wire Wire Line
+	1900 4200 1900 5200
+Connection ~ 1900 4200
+Wire Wire Line
+	1900 5200 1900 5350
+Wire Wire Line
+	1900 5350 2900 5350
+Wire Wire Line
+	2900 5350 2900 6200
+Connection ~ 1900 5200
+Wire Wire Line
+	2900 6200 2900 7200
+Connection ~ 2900 6200
+Wire Wire Line
+	18800 4200 18800 2250
+Wire Wire Line
+	18800 2250 8200 2250
+Connection ~ 8200 2250
+Wire Wire Line
+	8300 1300 8300 2300
+Wire Wire Line
+	8300 2300 2100 2300
+Wire Wire Line
+	2100 2300 2100 3200
+Wire Wire Line
+	2100 3200 2100 3400
+Wire Wire Line
+	2100 3400 2900 3400
+Wire Wire Line
+	2900 3400 2900 4200
+Connection ~ 2100 3200
+Wire Wire Line
+	2900 4200 2900 4800
+Connection ~ 2900 4200
+Wire Wire Line
+	2900 4800 3600 4800
+Wire Wire Line
+	3600 4800 3600 6200
+Wire Wire Line
+	3600 6200 3900 6200
+Connection ~ 2900 4800
+Wire Wire Line
+	2900 4800 2900 5200
+Wire Wire Line
+	3900 6200 3900 7200
+Connection ~ 3900 6200
+Connection ~ 8300 2300
+Wire Wire Line
+	8400 1300 8400 2350
+Wire Wire Line
+	8400 2350 3300 2350
+Wire Wire Line
+	3300 2350 3300 3200
+Wire Wire Line
+	3300 3200 3300 3400
+Wire Wire Line
+	3300 3400 3900 3400
+Wire Wire Line
+	3900 3400 3900 4200
+Connection ~ 3300 3200
+Wire Wire Line
+	3900 4200 3900 4800
+Connection ~ 3900 4200
+Wire Wire Line
+	3900 4800 4700 4800
+Wire Wire Line
+	4700 4800 4700 6200
+Wire Wire Line
+	4700 6200 4900 6200
+Connection ~ 3900 4800
+Wire Wire Line
+	3900 4800 3900 5200
+Wire Wire Line
+	4900 6200 4900 7200
+Connection ~ 4900 6200
+Connection ~ 8400 2350
+Wire Wire Line
+	20800 5200 20750 5200
+Wire Wire Line
+	20750 5200 20750 2300
+Wire Wire Line
+	8300 2300 20750 2300
+Wire Wire Line
+	20700 2350 20700 6200
+Wire Wire Line
+	20700 6200 20800 6200
+Wire Wire Line
+	8400 2350 20700 2350
+Wire Wire Line
+	20800 7200 20650 7200
+Wire Wire Line
+	20650 7200 20650 2400
+Wire Wire Line
+	20650 2400 8500 2400
+Wire Wire Line
+	8500 2400 8500 1300
+Wire Wire Line
+	8500 2400 4400 2400
+Wire Wire Line
+	4400 2400 4400 3200
+Connection ~ 8500 2400
+Wire Wire Line
+	4400 3200 4400 3400
+Wire Wire Line
+	4400 3400 4900 3400
+Wire Wire Line
+	4900 3400 4900 4200
+Connection ~ 4400 3200
+Wire Wire Line
+	4900 4200 4900 4800
+Connection ~ 4900 4200
+Wire Wire Line
+	4900 4800 5700 4800
+Wire Wire Line
+	5700 4800 5700 6200
+Wire Wire Line
+	5700 6200 5900 6200
+Connection ~ 4900 4800
+Wire Wire Line
+	4900 4800 4900 5200
+Wire Wire Line
+	5900 6200 5900 7200
+Connection ~ 5900 6200
+Wire Wire Line
+	8600 1300 8600 2450
+Wire Wire Line
+	8600 2450 5500 2450
+Wire Wire Line
+	5500 2450 5500 3200
+Wire Wire Line
+	5500 3200 5500 3400
+Wire Wire Line
+	5500 3400 5900 3400
+Wire Wire Line
+	5900 3400 5900 4200
+Connection ~ 5500 3200
+Wire Wire Line
+	5900 4200 5900 4800
+Connection ~ 5900 4200
+Wire Wire Line
+	5900 4800 6700 4800
+Wire Wire Line
+	6700 4800 6700 6200
+Wire Wire Line
+	6700 6200 6900 6200
+Connection ~ 5900 4800
+Wire Wire Line
+	5900 4800 5900 5200
+Wire Wire Line
+	6900 6200 6900 7200
+Connection ~ 6900 6200
+Wire Wire Line
+	20800 8200 20600 8200
+Wire Wire Line
+	20600 8200 20600 2450
+Wire Wire Line
+	20600 2450 8600 2450
+Connection ~ 8600 2450
+Wire Wire Line
+	8700 1300 8700 2500
+Wire Wire Line
+	8700 2500 6600 2500
+Wire Wire Line
+	6600 2500 6600 3200
+Wire Wire Line
+	6600 3200 6600 3400
+Wire Wire Line
+	6600 3400 7500 3400
+Wire Wire Line
+	7500 3400 7500 4200
+Connection ~ 6600 3200
+Wire Wire Line
+	6500 5300 6900 5300
+Wire Wire Line
+	7500 4200 7500 5200
+Connection ~ 7500 4200
+Wire Wire Line
+	7500 5200 7500 5400
+Wire Wire Line
+	7500 5400 8500 5400
+Wire Wire Line
+	8500 5400 8500 6200
+Connection ~ 7500 5200
+Wire Wire Line
+	8500 6200 8500 7200
+Connection ~ 8500 6200
+Wire Wire Line
+	6900 5200 6900 5300
+Connection ~ 6900 5300
+Wire Wire Line
+	6900 5300 8500 5300
+Wire Wire Line
+	19800 5200 19750 5200
+Wire Wire Line
+	19750 5200 19750 2500
+Wire Wire Line
+	19750 2500 8700 2500
+Connection ~ 8700 2500
+Wire Wire Line
+	8800 1300 8800 2550
+Wire Wire Line
+	8800 2550 7900 2550
+Wire Wire Line
+	7900 2550 7900 4200
+Wire Wire Line
+	7900 4200 7900 4800
+Connection ~ 7900 4200
+Wire Wire Line
+	7900 4800 8700 4800
+Wire Wire Line
+	8700 4800 8700 6200
+Wire Wire Line
+	8700 6200 8900 6200
+Connection ~ 7900 4800
+Wire Wire Line
+	7900 4800 7900 5200
+Wire Wire Line
+	8900 6200 8900 7200
+Connection ~ 8900 6200
+Connection ~ 8800 2550
+Wire Wire Line
+	8900 1300 8900 2600
+Wire Wire Line
+	8900 2600 9400 2600
+Wire Wire Line
+	9400 2600 9400 3200
+Wire Wire Line
+	9400 3200 9400 3400
+Wire Wire Line
+	9400 3400 9500 3400
+Wire Wire Line
+	9500 3400 9500 4200
+Connection ~ 9400 3200
+Wire Wire Line
+	9500 4200 9500 4800
+Wire Wire Line
+	9500 4800 8900 4800
+Wire Wire Line
+	8900 4800 8900 5200
+Connection ~ 9500 4200
+Wire Wire Line
+	9500 4800 9700 4800
+Wire Wire Line
+	9700 4800 9700 6200
+Wire Wire Line
+	9700 6200 9900 6200
+Connection ~ 9500 4800
+Wire Wire Line
+	9900 6200 9900 7200
+Connection ~ 9900 6200
+Wire Wire Line
+	19800 7200 19700 7200
+Wire Wire Line
+	19700 7200 19700 2600
+Wire Wire Line
+	19700 2600 9400 2600
+Connection ~ 9400 2600
+Wire Wire Line
+	9000 1300 9000 2650
+Wire Wire Line
+	9000 2650 9700 2650
+Wire Wire Line
+	9700 2650 9700 4200
+Wire Wire Line
+	9700 4200 9900 4200
+Wire Wire Line
+	9900 4200 9900 4800
+Connection ~ 9900 4200
+Wire Wire Line
+	9900 4800 10700 4800
+Wire Wire Line
+	10700 4800 10700 6200
+Wire Wire Line
+	10700 6200 10900 6200
+Connection ~ 9900 4800
+Wire Wire Line
+	9900 4800 9900 5200
+Wire Wire Line
+	10900 6200 10900 7200
+Connection ~ 10900 6200
+Wire Wire Line
+	9100 1300 9100 2700
+Wire Wire Line
+	9100 2700 10000 2700
+Wire Wire Line
+	10000 2700 10000 3200
+Wire Wire Line
+	10000 3200 10000 3400
+Wire Wire Line
+	10000 3400 10900 3400
+Wire Wire Line
+	10900 3400 10900 4200
+Connection ~ 10000 3200
+Wire Wire Line
+	10900 4200 10900 4800
+Connection ~ 10900 4200
+Wire Wire Line
+	10900 4800 11700 4800
+Wire Wire Line
+	11700 4800 11700 6200
+Wire Wire Line
+	11700 6200 11900 6200
+Connection ~ 10900 4800
+Wire Wire Line
+	10900 4800 10900 5200
+Wire Wire Line
+	11900 6200 11900 7200
+Connection ~ 11900 6200
+Wire Wire Line
+	9200 1300 9200 2200
+Wire Wire Line
+	9200 2200 11200 2200
+Wire Wire Line
+	11200 2200 11200 3200
+Wire Wire Line
+	11200 3200 11200 3400
+Wire Wire Line
+	11200 3400 11900 3400
+Wire Wire Line
+	11900 3400 11900 4200
+Connection ~ 11200 3200
+Wire Wire Line
+	11900 4200 11900 4800
+Connection ~ 11900 4200
+Wire Wire Line
+	11900 4800 12700 4800
+Wire Wire Line
+	12700 4800 12700 6200
+Wire Wire Line
+	12700 6200 12900 6200
+Connection ~ 11900 4800
+Wire Wire Line
+	11900 4800 11900 5200
+Wire Wire Line
+	9300 1300 9300 2150
+Wire Wire Line
+	9300 2150 12400 2150
+Wire Wire Line
+	12400 2150 12400 3200
+Wire Wire Line
+	12400 3200 12400 3400
+Wire Wire Line
+	12400 3400 12900 3400
+Wire Wire Line
+	12900 3400 12900 4200
+Connection ~ 12400 3200
+Wire Wire Line
+	12900 4200 12900 4800
+Connection ~ 12900 4200
+Wire Wire Line
+	12900 4800 13900 4800
+Wire Wire Line
+	13900 4800 13900 6200
+Connection ~ 12900 4800
+Wire Wire Line
+	12900 4800 12900 5200
+Wire Wire Line
+	20800 4200 20800 2650
+Wire Wire Line
+	20800 2650 9700 2650
+Connection ~ 9700 2650
+Wire Wire Line
+	18800 5200 18650 5200
+Wire Wire Line
+	18650 5200 18650 2700
+Wire Wire Line
+	18650 2700 10000 2700
+Connection ~ 10000 2700
+Wire Wire Line
+	18800 6200 18600 6200
+Wire Wire Line
+	18600 6200 18600 2200
+Wire Wire Line
+	18600 2200 11200 2200
+Connection ~ 11200 2200
+Wire Wire Line
+	18800 7200 18550 7200
+Wire Wire Line
+	18550 7200 18550 2150
+Wire Wire Line
+	18550 2150 12400 2150
+Connection ~ 12400 2150
+Wire Wire Line
+	19900 8200 19900 7350
+Wire Wire Line
+	19900 7350 18500 7350
+Wire Wire Line
+	18500 7350 18500 2100
+Wire Wire Line
+	18500 2100 13600 2100
+Wire Wire Line
+	9400 2100 9400 1300
+Wire Wire Line
+	13600 3200 13600 2100
+Connection ~ 13600 2100
+Wire Wire Line
+	13600 2100 9400 2100
+Wire Wire Line
+	13600 3200 13600 3400
+Wire Wire Line
+	13600 3400 14500 3400
+Wire Wire Line
+	14500 3400 14500 4200
+Connection ~ 13600 3200
+Wire Wire Line
+	14500 4200 14500 4800
+Wire Wire Line
+	14500 4800 15000 4800
+Wire Wire Line
+	15000 4800 15000 5200
+Connection ~ 14500 4200
+Wire Wire Line
+	16100 4200 16100 4800
+Wire Wire Line
+	16100 4800 15000 4800
+Connection ~ 15000 4800
+Wire Wire Line
+	14500 4200 14900 4200
+Wire Wire Line
+	9500 1300 9500 2050
+Wire Wire Line
+	9500 2050 17100 2050
+Wire Wire Line
+	17100 2050 17100 4200
+Wire Wire Line
+	6700 1750 16700 1750
+Wire Wire Line
+	16700 1750 16700 4200
+Connection ~ 6700 1750
+Wire Wire Line
+	7300 1950 7300 2750
+Wire Wire Line
+	7300 2750 17700 2750
+Wire Wire Line
+	17700 2750 17700 4200
+Connection ~ 7300 1950
+Wire Wire Line
+	15600 7200 15600 6700
+Wire Wire Line
+	15600 6700 17200 6700
+Wire Wire Line
+	17200 6700 17200 6200
+Wire Wire Line
+	17200 7200 17200 6700
+Connection ~ 17200 6700
+Wire Wire Line
+	17600 7200 17600 6700
+Wire Wire Line
+	17600 6700 17200 6700
+Wire Wire Line
+	17200 6200 17200 5550
+Wire Wire Line
+	17200 5550 17100 5550
+Wire Wire Line
+	17100 5550 17100 4200
+Connection ~ 17200 6200
+Connection ~ 17100 4200
+Wire Wire Line
+	21800 5200 21500 5200
+Wire Wire Line
+	21500 5200 21500 2050
+Wire Wire Line
+	21500 2050 17100 2050
+Connection ~ 17100 2050
+Wire Wire Line
+	8100 1700 21800 1700
+Wire Wire Line
+	21800 1700 21800 4200
+Connection ~ 8100 1700
+Wire Wire Line
+	21800 7600 21550 7600
+Wire Wire Line
+	21550 7600 21550 2650
+Wire Wire Line
+	21550 2650 20800 2650
+Connection ~ 20800 2650
+Wire Wire Line
+	18800 2250 21600 2250
+Wire Wire Line
+	21600 2250 21600 6200
+Wire Wire Line
+	21600 6200 21800 6200
+Connection ~ 18800 2250
+Wire Wire Line
+	19800 6200 19600 6200
+Wire Wire Line
+	19600 6200 19600 4200
+Wire Wire Line
+	19600 2550 8800 2550
+Wire Wire Line
+	19800 4200 19600 4200
+Connection ~ 19600 4200
+Wire Wire Line
+	19600 4200 19600 2550
+Wire Wire Line
+	7100 1900 7100 2800
+Wire Wire Line
+	7100 2800 16900 2800
+Wire Wire Line
+	16900 2800 16900 5300
+Wire Wire Line
+	16900 5300 16600 5300
+Wire Wire Line
+	16600 5300 16600 6200
+Connection ~ 7100 1900
+$Comp
+L keyboard_parts:KEYSW K29
+U 1 1 5C703C58
+P 13600 8200
+F 0 "K29" H 13600 8539 60  0000 C CNN
+F 1 "R.ALT" H 13600 8433 60  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB" H 13600 8433 60  0001 C CNN
+F 3 "" H 13600 8200 60  0000 C CNN
+	1    13600 8200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12300 8200 12300 8400
+Wire Wire Line
+	15500 7550 15500 7200
+Wire Wire Line
+	15500 5450 15700 5450
+Wire Wire Line
+	15700 5450 15700 1650
+Wire Wire Line
+	9600 1650 9600 1300
+Wire Wire Line
+	13500 7200 15500 7200
+Connection ~ 15500 7200
+Wire Wire Line
+	15500 7200 15500 5450
+Wire Wire Line
+	900  6200 900  7200
+Wire Wire Line
+	900  7200 900  8400
+Wire Wire Line
+	900  8400 1500 8400
+Connection ~ 900  7200
+Wire Wire Line
+	1500 8200 1500 8400
+Connection ~ 1500 8400
+Wire Wire Line
+	1500 8400 2500 8400
+Wire Wire Line
+	2500 8200 2500 8400
+Connection ~ 2500 8400
+Wire Wire Line
+	2500 8400 12300 8400
+Wire Wire Line
+	15700 1650 9600 1650
+Wire Wire Line
+	2050 5650 700  5650
+Wire Wire Line
+	700  5650 700  1600
+Wire Wire Line
+	700  1600 9700 1600
+Wire Wire Line
+	9700 1600 9700 1300
+Wire Wire Line
+	13900 6200 13900 7400
+Wire Wire Line
+	13900 7400 6100 7400
+Wire Wire Line
+	6100 7400 6100 8200
+Connection ~ 13900 6200
+Wire Wire Line
+	6700 8200 6700 7300
+Connection ~ 6700 7300
+Wire Wire Line
+	6700 7300 7500 7300
+Wire Wire Line
+	15900 1950 15900 6450
+Wire Wire Line
+	15900 6450 13950 6450
+Wire Wire Line
+	13950 6450 13950 7450
+Wire Wire Line
+	13950 7450 12900 7450
+Wire Wire Line
+	12900 7450 12900 8200
+Wire Wire Line
+	15500 7550 13900 7550
+Wire Wire Line
+	13900 7550 13900 8200
+Wire Wire Line
+	13900 8200 13900 8400
+Wire Wire Line
+	13900 8400 12300 8400
+Connection ~ 13900 8200
+Connection ~ 12300 8400
+Wire Wire Line
+	16000 1800 16000 6500
+Wire Wire Line
+	16000 6500 14000 6500
+Wire Wire Line
+	14000 6500 14000 7500
+Wire Wire Line
+	14000 7500 13300 7500
+Wire Wire Line
+	13300 7500 13300 8200
+Wire Wire Line
+	6900 1850 6900 2850
+Wire Wire Line
+	6900 2850 15500 2850
+Wire Wire Line
+	15500 2850 15500 4200
+Connection ~ 6900 1850
+Text Label 6700 1400 1    50   ~ 0
+1
+Text Label 6800 1400 1    50   ~ 0
+2
+Text Label 6900 1400 1    50   ~ 0
+3
+Text Label 7000 1400 1    50   ~ 0
+4
+Text Label 7100 1400 1    50   ~ 0
+5
+Text Label 7200 1400 1    50   ~ 0
+6
+Text Label 7300 1400 1    50   ~ 0
+7
+Text Label 7400 1400 1    50   ~ 0
+8
+Text Label 7500 1400 1    50   ~ 0
+9
+Text Label 7600 1400 1    50   ~ 0
+10
+Text Label 7700 1400 1    50   ~ 0
+11
+Text Label 7800 1400 1    50   ~ 0
+12
+Text Label 7900 1400 1    50   ~ 0
+13
+Text Label 8000 1400 1    50   ~ 0
+14
+Text Label 8100 1400 1    50   ~ 0
+15
+Text Label 8200 1400 1    50   ~ 0
+16
+Text Label 8300 1400 1    50   ~ 0
+17
+Text Label 8400 1400 1    50   ~ 0
+18
+Text Label 8500 1400 1    50   ~ 0
+19
+Text Label 8600 1400 1    50   ~ 0
+20
+Text Label 8700 1400 1    50   ~ 0
+21
+Text Label 8800 1400 1    50   ~ 0
+22
+Text Label 8900 1400 1    50   ~ 0
+23
+Text Label 9000 1400 1    50   ~ 0
+24
+Text Label 9100 1400 1    50   ~ 0
+25
+Text Label 9200 1400 1    50   ~ 0
+26
+Text Label 9300 1400 1    50   ~ 0
+27
+Text Label 9400 1400 1    50   ~ 0
+28
+Text Label 9500 1400 1    50   ~ 0
+29
+Text Label 9600 1400 1    50   ~ 0
+30
+Text Label 9700 1400 1    50   ~ 0
+31
+Wire Wire Line
+	750  4300 1500 4300
+Wire Wire Line
+	900  3200 900  4200
+Connection ~ 900  3200
+Wire Wire Line
+	1500 4200 1500 4300
+Connection ~ 1500 4300
+Wire Wire Line
+	1500 4300 2500 4300
+Wire Wire Line
+	900  4200 900  4650
+Wire Wire Line
+	900  4650 1500 4650
+Wire Wire Line
+	1500 4650 1500 5200
+Connection ~ 900  4200
+Wire Wire Line
+	1500 5200 1500 5900
+Wire Wire Line
+	1500 5900 1900 5900
+Wire Wire Line
+	1900 5900 1900 6200
+Connection ~ 1500 5200
+Wire Wire Line
+	1900 7200 1900 6200
+Connection ~ 1900 6200
+$EndSCHEMATC
