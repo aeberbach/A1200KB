@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/adam/Projects/A1200KB/A1200KB.sch)
-    (date "Tuesday, 19 March 2019 at 11:46:25 pm")
+    (date "Wednesday, 20 March 2019 at 10:55:06 pm")
     (tool "Eeschema (5.1.0-0)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -71,7 +71,7 @@
       (tstamp 5C701092))
     (comp (ref K28)
       (value HELP)
-      (footprint MX_Alps_Hybrid:MXOnly-1.25U-NoLED)
+      (footprint MX_Alps_Hybrid:MXOnly-1.5U-NoLED)
       (libsource (lib MX_Alps_Hybrids) (part MX-1.5U) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C701DEC))
