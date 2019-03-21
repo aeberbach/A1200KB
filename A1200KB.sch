@@ -1482,7 +1482,7 @@ Connection ~ 12275 10100
 Wire Wire Line
 	6900 4800 7650 4800
 Wire Wire Line
-	7650 4800 7650 10100
+	7650 4800 7650 6200
 Connection ~ 7650 10100
 Wire Wire Line
 	7650 10100 8575 10100
@@ -2459,4 +2459,13 @@ Wire Wire Line
 	2325 9175 2325 8825
 Text Label 2200 5000 1    50   ~ 0
 31
+Wire Wire Line
+	15275 6875 15075 6875
+Wire Wire Line
+	15075 6875 15075 6200
+Wire Wire Line
+	15075 6200 7650 6200
+Connection ~ 7650 6200
+Wire Wire Line
+	7650 6200 7650 10100
 $EndSCHEMATC

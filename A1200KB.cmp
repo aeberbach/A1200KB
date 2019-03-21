@@ -1,0 +1,787 @@
+Cmp-Mod V01 Created by PcbNew   date = Thursday, 21 March 2019 at 08:30:46 am
+
+BeginCmp
+TimeStamp = 5C92940B
+Path = 
+Reference = IN CASE;
+ValeurCmp = 9U;
+IdModule  = MX_Alps_Hybrid:MX-9U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9C0171
+Path = /5C9D8FBB
+Reference = J1;
+ValeurCmp = Conn_01x32_Female;
+IdModule  = Connector_FFC-FPC:FFC-1.25mm-RA-5204403245;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917951
+Path = /5C6EAD3A
+Reference = K1;
+ValeurCmp = ESC;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917965
+Path = /5C7001B7
+Reference = K2;
+ValeurCmp = F1;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917979
+Path = /5C70020E
+Reference = K3;
+ValeurCmp = F2;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91798D
+Path = /5C70038E
+Reference = K4;
+ValeurCmp = F3;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9179A1
+Path = /5C7003FE
+Reference = K5;
+ValeurCmp = F4;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9179B5
+Path = /5C700470
+Reference = K6;
+ValeurCmp = F5;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9179C9
+Path = /5C700906
+Reference = K7;
+ValeurCmp = F6;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9179DD
+Path = /5C700A92
+Reference = K8;
+ValeurCmp = F7;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9179F1
+Path = /5C700F05
+Reference = K9;
+ValeurCmp = F8;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A05
+Path = /5C700FC5
+Reference = K10;
+ValeurCmp = F9;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A19
+Path = /5C701092
+Reference = K11;
+ValeurCmp = F10;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A2D
+Path = /5C703BFE
+Reference = K12;
+ValeurCmp = TILDE;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.5U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A41
+Path = /5C703C04
+Reference = K13;
+ValeurCmp = 1;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A55
+Path = /5C703C0A
+Reference = K14;
+ValeurCmp = 2;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A69
+Path = /5C703C10
+Reference = K15;
+ValeurCmp = 3;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A7D
+Path = /5C703C16
+Reference = K16;
+ValeurCmp = 4;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917A91
+Path = /5C703C1C
+Reference = K17;
+ValeurCmp = 5;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917AA5
+Path = /5C703C22
+Reference = K18;
+ValeurCmp = 6;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917AB9
+Path = /5C703C28
+Reference = K19;
+ValeurCmp = 7;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917ACD
+Path = /5C703C2E
+Reference = K20;
+ValeurCmp = 8;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917AE1
+Path = /5C703C34
+Reference = K21;
+ValeurCmp = 9;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917AF5
+Path = /5C703C3A
+Reference = K22;
+ValeurCmp = 0;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B09
+Path = /5C703C40
+Reference = K23;
+ValeurCmp = MINUS;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B1D
+Path = /5C703C46
+Reference = K24;
+ValeurCmp = PLUS;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B31
+Path = /5C703C4C
+Reference = K25;
+ValeurCmp = PIPE;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B45
+Path = /5C8BA8A6
+Reference = K26;
+ValeurCmp = BS;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B59
+Path = /5C8AE491
+Reference = K27;
+ValeurCmp = DEL;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.5U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B81
+Path = /5CA6394E
+Reference = K29;
+ValeurCmp = NUM_(;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917B95
+Path = /5CA628C4
+Reference = K30;
+ValeurCmp = NUM_);
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917BA9
+Path = /5CA60B25
+Reference = K31;
+ValeurCmp = NUM_DIV;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917BBD
+Path = /5CA5EDCB
+Reference = K32;
+ValeurCmp = NUM_MULT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917BD1
+Path = /5C706FAD
+Reference = K33;
+ValeurCmp = TAB;
+IdModule  = MX_Alps_Hybrid:MXOnly-2U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917BE9
+Path = /5C706FB3
+Reference = K34;
+ValeurCmp = Q;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917BFD
+Path = /5C706FB9
+Reference = K35;
+ValeurCmp = W;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C11
+Path = /5C706FBF
+Reference = K36;
+ValeurCmp = E;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C25
+Path = /5C706FC5
+Reference = K37;
+ValeurCmp = R;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C39
+Path = /5C706FCB
+Reference = K38;
+ValeurCmp = T;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C4D
+Path = /5C706FD1
+Reference = K39;
+ValeurCmp = Y;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C61
+Path = /5C706FD7
+Reference = K40;
+ValeurCmp = U;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C75
+Path = /5C706FDD
+Reference = K41;
+ValeurCmp = I;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C89
+Path = /5C706FE3
+Reference = K42;
+ValeurCmp = O;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917C9D
+Path = /5C706FE9
+Reference = K43;
+ValeurCmp = P;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917CB1
+Path = /5C706FEF
+Reference = K44;
+ValeurCmp = L.CURLY;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917CC5
+Path = /5C706FF5
+Reference = K45;
+ValeurCmp = R.CURLY;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917CD9
+Path = /5C706FFB
+Reference = K46;
+ValeurCmp = RETURN;
+IdModule  = MX_Alps_Hybrid:MXOnly-ISO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917CF5
+Path = /5C8C4853
+Reference = K47;
+ValeurCmp = NUM_7;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D09
+Path = /5C8C483B
+Reference = K48;
+ValeurCmp = NUM_8;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D1D
+Path = /5C8C4823
+Reference = K49;
+ValeurCmp = NUM_9;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D31
+Path = /5C8C486B
+Reference = K50;
+ValeurCmp = NUM_MINUS;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D45
+Path = /5C8AE49D
+Reference = K51;
+ValeurCmp = CTRL;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D59
+Path = /5C8AE443
+Reference = K52;
+ValeurCmp = CAPSLOCK;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D6F
+Path = /5C8AE449
+Reference = K53;
+ValeurCmp = A;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D83
+Path = /5C8AE44F
+Reference = K54;
+ValeurCmp = S;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917D97
+Path = /5C8AE455
+Reference = K55;
+ValeurCmp = D;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917DAB
+Path = /5C8AE45B
+Reference = K56;
+ValeurCmp = F;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917DBF
+Path = /5C8AE461
+Reference = K57;
+ValeurCmp = G;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917DD3
+Path = /5C8AE467
+Reference = K58;
+ValeurCmp = H;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917DE7
+Path = /5C8AE46D
+Reference = K59;
+ValeurCmp = J;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917DFB
+Path = /5C8AE473
+Reference = K60;
+ValeurCmp = K;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E0F
+Path = /5C8AE479
+Reference = K61;
+ValeurCmp = L;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E23
+Path = /5C8AE47F
+Reference = K62;
+ValeurCmp = COLON;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E37
+Path = /5C8AE485
+Reference = K63;
+ValeurCmp = ";
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E4B
+Path = /5C9F4ADB
+Reference = K64;
+ValeurCmp = R.BLANK;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E5F
+Path = /5C703C52
+Reference = K65;
+ValeurCmp = UP;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E73
+Path = /5C8C4859
+Reference = K66;
+ValeurCmp = NUM_4;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E87
+Path = /5C8C4841
+Reference = K67;
+ValeurCmp = NUM_5;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917E9B
+Path = /5C8C4829
+Reference = K68;
+ValeurCmp = NUM_6;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917EAF
+Path = /5CA67D7B
+Reference = K69;
+ValeurCmp = NUM_PLUS;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917EC3
+Path = /5C8BA8B2
+Reference = K70;
+ValeurCmp = L.SHIFT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.75U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917ED7
+Path = /5C9FD949
+Reference = K71;
+ValeurCmp = L.BLANK;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917EEB
+Path = /5C8BA85E
+Reference = K72;
+ValeurCmp = Z;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917EFF
+Path = /5C8BA864
+Reference = K73;
+ValeurCmp = X;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F13
+Path = /5C8BA86A
+Reference = K74;
+ValeurCmp = C;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F27
+Path = /5C8BA870
+Reference = K75;
+ValeurCmp = V;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F3B
+Path = /5C8BA876
+Reference = K76;
+ValeurCmp = B;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F4F
+Path = /5C8BA87C
+Reference = K77;
+ValeurCmp = N;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F63
+Path = /5C8BA882
+Reference = K78;
+ValeurCmp = M;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F77
+Path = /5C8BA88E
+Reference = K79;
+ValeurCmp = R.CROC;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F8B
+Path = /5C8BA888
+Reference = K80;
+ValeurCmp = L.CROC;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917F9F
+Path = /5C8BA894
+Reference = K81;
+ValeurCmp = QUESTION;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917FB3
+Path = /5C702218
+Reference = K82;
+ValeurCmp = R.SHIFT;
+IdModule  = MX_Alps_Hybrid:MXOnly-2.75U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917FCB
+Path = /5C707001
+Reference = K83;
+ValeurCmp = LEFT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917FDF
+Path = /5C8BA8AC
+Reference = K84;
+ValeurCmp = DOWN;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C917FF3
+Path = /5C8AE497
+Reference = K85;
+ValeurCmp = RIGHT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C918007
+Path = /5C8C485F
+Reference = K86;
+ValeurCmp = NUM_1;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91801B
+Path = /5C8C4847
+Reference = K87;
+ValeurCmp = NUM_2;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91802F
+Path = /5C8C482F
+Reference = K88;
+ValeurCmp = NUM_3;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C918043
+Path = /5C8C484D
+Reference = K89;
+ValeurCmp = NUM_ENTER;
+IdModule  = MX_Alps_Hybrid:MXOnly-2U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91805B
+Path = /5C8C4871
+Reference = K90;
+ValeurCmp = L.ALT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91806F
+Path = /5C93F696
+Reference = K91;
+ValeurCmp = L.AMIGA;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C918083
+Path = /5C8BA8A0
+Reference = K92;
+ValeurCmp = SPACE;
+IdModule  = MX_Alps_Hybrid:MXOnly-7U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C91809B
+Path = /5C707007
+Reference = K93;
+ValeurCmp = R.AMIGA;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9180AF
+Path = /5C703C58
+Reference = K94;
+ValeurCmp = R.ALT;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.25U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9180C3
+Path = /5C8C4865
+Reference = K95;
+ValeurCmp = NUM_0;
+IdModule  = MX_Alps_Hybrid:MXOnly-2U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9180DB
+Path = /5C8C4835
+Reference = K96;
+ValeurCmp = NUM_DECIMAL;
+IdModule  = MX_Alps_Hybrid:MXOnly-1U-NoLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C92382C
+Path = /5C701DEC
+Reference = K28;
+ValeurCmp = HELP;
+IdModule  = MX_Alps_Hybrid:MXOnly-1.5U-NoLED;
+EndCmp
+
+EndListe
