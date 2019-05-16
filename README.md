@@ -22,7 +22,7 @@ I had my boards made with 2mm PCB substrate, no other special options. Using a t
 ![Complete](https://github.com/aeberbach/A1200KB/blob/master/images/soldered.jpg)
 
 ### Amiga Keycaps
-These aren't available. I'm making some using a blank set of keycaps from aliexpress and a laser etcher, but I do not know of anywhere that sells a MX-stem set of Amiga keycaps. The space bar on this PCB has a dual-footprint space bar. If you manage to find a 9U space bar, it will fit, and stabilizer mounts are provided. I am using a 7U space bar for which there are also stabilizer mounts provided. If I ever find a 9U (nobody seems to make these) I will switch but the two empty space don't bother me.
+These aren't available. I'm making some using a blank set of keycaps from aliexpress and a laser etcher, but I do not know of anywhere that sells a MX-stem set of Amiga keycaps. The space bar on this PCB has a dual-footprint space bar. I am using a 7U space bar for which there are also stabilizer mounts provided. If I ever find a 9U, for which there are also stabilizer mounts provided (nobody seems to make these) I will switch, but the two empty spaces don't bother me.
 
 ## Construction
 Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. However mounting the keyboard requires constructing some fittings that are not described here. I machined some aluminium angle that I bought from a hardware store.
