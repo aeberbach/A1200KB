@@ -27,9 +27,11 @@ These aren't available. I'm making some using a blank set of keycaps from aliexp
 ## Construction
 Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. However mounting the keyboard requires constructing some fittings that are not described here. I machined some aluminium angle that I bought from a hardware store.
 
-if I ever get my 3D printer I will upload some models here, that would be the perfect way to make the keyboard mounts.
+However you can damage your Amiga or yourself if you don't know what you are doing. Please be careful and if you are not experienced in projects like this get some help, vist your local makerspace or somthing, and don't hurt yourself or your computer.
 
-However you can damage your Amiga if you don't know what you are doing. Please be careful and if you are not experienced in projects like this get some help, vist your local makerspace or somthing, and don't hurt yourself or your computer.
+If I ever get my 3D printer I will upload some models here, that would be the perfect way to make the keyboard mounts.
+
+
 
 ## Share
 Most of all - if you have any suggestions for improvements, adding an issue or a pull request to this repo would be much appreciated. And share your project with the Amiga community, I'd really like to see what you made.
