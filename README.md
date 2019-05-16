@@ -35,6 +35,6 @@ However you can damage your Amiga if you don't know what you are doing. Please b
 Most of all - if you have any suggestions for improvements, adding an issue or a pull request to this repo would be much appreciated. And share your project with the Amiga community, I'd really like to see what you made.
 
 #### Donate?
-If you'd like to contribute anything toward my buying a 3D printer fund, that would be awesome. 
+If you'd like to contribute anything toward my buying a 3D printer fund, that would be awesome. If I manage to buy one my first job will be to design and print a mounting system for this project in an A1200 case.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/grayunicorn)
