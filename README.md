@@ -19,22 +19,20 @@ To make a working keyboard for your Amiga 1200, you need:
 The Amiga 1200 keyboard is a simple passive key matrix connected via a 31-conductor cable. Some special keys are not on the matrix but have a dedicated circuit, such as the CTRL and Amiga keys - this is why so many conductors are necessary. The original Amiga 1200 PCB uses a 31-way FFC connector, I was not able to buy this anywhere as they are long discontinued. However cutting one conductor away from the cable allows it to fit in the Amiga connector with 31 conductors and to the keyboard with 32 conductors and everything is fin. The specified FFC cable is slightly longer than required but in 2019 there is not  a lot of choice available, so the longer one will do. 
 I had my boards made with 2mm PCB substrate, no other special options. Using a thick substrate makes it reasonably sturdy but attaching a piece of aluminium right angle to the top of the PCB is a requirement to make it as stiff as a keyboard should be.  
  
-![Complete](https://github.com/aeberbach/A1200KB/blob/master/images/soldered.jpg)
+![Complete](https://github.com/aeberbach/A1200KB/blob/master/images/case-closed.jpg)
 
 ### Amiga Keycaps
 These aren't available. I'm making some using a blank set of keycaps from aliexpress and a laser etcher, but I do not know of anywhere that sells a MX-stem set of Amiga keycaps. The space bar on this PCB has a dual-footprint space bar. If you manage to find a 9U space bar, it will fit, and stabilizer mounts are provided. I am using a 7U space bar for which there are also stabilizer mounts provided. If I ever find a 9U (nobody seems to make these) I will switch but the two empty space don't bother me.
 
 ## Construction
-Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. However mounting the keyboard requires constructing some fittings that are not described here. I machined some aluminium angle that I bought from a hardware store.
+Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. Mounting the keyboard requires 3D printing the files you will find in the 3Dfiles folder - 13 of the cover pieces, both side pieces, both bottom pieces, M3 nuts and bolts, and a length of 10x3mm aluminium extrusion. I'm a 3D design amateur so if you make a better design please share.
 
-if I ever get my 3D printer I will upload some models here, that would be the perfect way to make the keyboard mounts.
-
-However you can damage your Amiga if you don't know what you are doing. Please be careful and if you are not experienced in projects like this get some help, vist your local makerspace or somthing, and don't hurt yourself or your computer.
+You can damage your Amiga if you don't know what you are doing. Please be careful and if you are not experienced in projects like this get some help, vist your local makerspace or somthing, and don't hurt yourself or your computer.
 
 ## Share
 Most of all - if you have any suggestions for improvements, adding an issue or a pull request to this repo would be much appreciated. And share your project with the Amiga community, I'd really like to see what you made.
 
 #### Donate?
-If you'd like to contribute anything toward my buying a 3D printer fund, that would be awesome. 
+I hate to think what this has cost so far. It's been fun and I'd do it again, but if you'd like to help the next project happen that would be awesome.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/grayunicorn)
