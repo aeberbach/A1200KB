@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:A1200KB-cache
-EELAYER 30 0
+EELAYER 29 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K2
+L MX_Alps_Hybrids:MX-1.25U K2
 U 1 1 5C7001B7
 P 2500 5700
 F 0 "K2" H 2500 6039 60  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 2500 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K3
+L MX_Alps_Hybrids:MX-1.25U K3
 U 1 1 5C70020E
 P 3700 5700
 F 0 "K3" H 3700 6039 60  0000 C CNN
@@ -37,7 +37,7 @@ F 3 "" H 3700 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K4
+L MX_Alps_Hybrids:MX-1.25U K4
 U 1 1 5C70038E
 P 4800 5700
 F 0 "K4" H 4800 6039 60  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "" H 4800 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K5
+L MX_Alps_Hybrids:MX-1.25U K5
 U 1 1 5C7003FE
 P 5900 5700
 F 0 "K5" H 5900 6039 60  0000 C CNN
@@ -59,7 +59,7 @@ F 3 "" H 5900 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K6
+L MX_Alps_Hybrids:MX-1.25U K6
 U 1 1 5C700470
 P 7000 5700
 F 0 "K6" H 7000 6039 60  0000 C CNN
@@ -70,7 +70,7 @@ F 3 "" H 7000 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K8
+L MX_Alps_Hybrids:MX-1.25U K8
 U 1 1 5C700A92
 P 10400 5700
 F 0 "K8" H 10400 6039 60  0000 C CNN
@@ -81,7 +81,7 @@ F 3 "" H 10400 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K9
+L MX_Alps_Hybrids:MX-1.25U K9
 U 1 1 5C700F05
 P 11600 5700
 F 0 "K9" H 11600 6039 60  0000 C CNN
@@ -92,7 +92,7 @@ F 3 "" H 11600 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K10
+L MX_Alps_Hybrids:MX-1.25U K10
 U 1 1 5C700FC5
 P 12800 5700
 F 0 "K10" H 12800 6039 60  0000 C CNN
@@ -103,7 +103,7 @@ F 3 "" H 12800 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K11
+L MX_Alps_Hybrids:MX-1.25U K11
 U 1 1 5C701092
 P 14000 5700
 F 0 "K11" H 14000 6039 60  0000 C CNN
@@ -114,7 +114,7 @@ F 3 "" H 14000 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.5U-MX_Alps_Hybrids K28
+L MX_Alps_Hybrids:MX-1.5U K28
 U 1 1 5C701DEC
 P 17500 6700
 F 0 "K28" H 17500 7039 60  0000 C CNN
@@ -125,7 +125,7 @@ F 3 "" H 17500 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-2.75U-MX_Alps_Hybrids K82
+L MX_Alps_Hybrids:MX-2.75U K82
 U 1 1 5C702218
 P 13300 9700
 F 0 "K82" H 13300 10039 60  0000 C CNN
@@ -136,7 +136,7 @@ F 3 "" H 13300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.5U-MX_Alps_Hybrids K12
+L MX_Alps_Hybrids:MX-1.5U K12
 U 1 1 5C703BFE
 P 1300 6700
 F 0 "K12" H 1300 7039 60  0000 C CNN
@@ -147,7 +147,7 @@ F 3 "" H 1300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K13
+L MX_Alps_Hybrids:MX-1U K13
 U 1 1 5C703C04
 P 2300 6700
 F 0 "K13" H 2300 7039 60  0000 C CNN
@@ -158,7 +158,7 @@ F 3 "" H 2300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K14
+L MX_Alps_Hybrids:MX-1U K14
 U 1 1 5C703C0A
 P 3300 6700
 F 0 "K14" H 3300 7039 60  0000 C CNN
@@ -169,7 +169,7 @@ F 3 "" H 3300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K16
+L MX_Alps_Hybrids:MX-1U K16
 U 1 1 5C703C16
 P 5300 6700
 F 0 "K16" H 5300 7039 60  0000 C CNN
@@ -180,7 +180,7 @@ F 3 "" H 5300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K17
+L MX_Alps_Hybrids:MX-1U K17
 U 1 1 5C703C1C
 P 6300 6700
 F 0 "K17" H 6300 7039 60  0000 C CNN
@@ -191,7 +191,7 @@ F 3 "" H 6300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K18
+L MX_Alps_Hybrids:MX-1U K18
 U 1 1 5C703C22
 P 7300 6700
 F 0 "K18" H 7300 7039 60  0000 C CNN
@@ -202,7 +202,7 @@ F 3 "" H 7300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K19
+L MX_Alps_Hybrids:MX-1U K19
 U 1 1 5C703C28
 P 8300 6700
 F 0 "K19" H 8300 7039 60  0000 C CNN
@@ -213,7 +213,7 @@ F 3 "" H 8300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K20
+L MX_Alps_Hybrids:MX-1U K20
 U 1 1 5C703C2E
 P 9300 6700
 F 0 "K20" H 9300 7039 60  0000 C CNN
@@ -224,7 +224,7 @@ F 3 "" H 9300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K21
+L MX_Alps_Hybrids:MX-1U K21
 U 1 1 5C703C34
 P 10300 6700
 F 0 "K21" H 10300 7039 60  0000 C CNN
@@ -235,7 +235,7 @@ F 3 "" H 10300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K22
+L MX_Alps_Hybrids:MX-1U K22
 U 1 1 5C703C3A
 P 11300 6700
 F 0 "K22" H 11300 7039 60  0000 C CNN
@@ -246,7 +246,7 @@ F 3 "" H 11300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K23
+L MX_Alps_Hybrids:MX-1U K23
 U 1 1 5C703C40
 P 12300 6700
 F 0 "K23" H 12300 7039 60  0000 C CNN
@@ -257,7 +257,7 @@ F 3 "" H 12300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K24
+L MX_Alps_Hybrids:MX-1U K24
 U 1 1 5C703C46
 P 13300 6700
 F 0 "K24" H 13300 7039 60  0000 C CNN
@@ -268,7 +268,7 @@ F 3 "" H 13300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K25
+L MX_Alps_Hybrids:MX-1U K25
 U 1 1 5C703C4C
 P 14300 6700
 F 0 "K25" H 14300 7039 60  0000 C CNN
@@ -279,7 +279,7 @@ F 3 "" H 14300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-2U-MX_Alps_Hybrids K33
+L MX_Alps_Hybrids:MX-2U K33
 U 1 1 5C706FAD
 P 1300 7700
 F 0 "K33" H 1300 8039 60  0000 C CNN
@@ -290,7 +290,7 @@ F 3 "" H 1300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K34
+L MX_Alps_Hybrids:MX-1U K34
 U 1 1 5C706FB3
 P 2300 7700
 F 0 "K34" H 2300 8039 60  0000 C CNN
@@ -301,7 +301,7 @@ F 3 "" H 2300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K35
+L MX_Alps_Hybrids:MX-1U K35
 U 1 1 5C706FB9
 P 3300 7700
 F 0 "K35" H 3300 8039 60  0000 C CNN
@@ -312,7 +312,7 @@ F 3 "" H 3300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K37
+L MX_Alps_Hybrids:MX-1U K37
 U 1 1 5C706FC5
 P 5300 7700
 F 0 "K37" H 5300 8039 60  0000 C CNN
@@ -323,7 +323,7 @@ F 3 "" H 5300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K38
+L MX_Alps_Hybrids:MX-1U K38
 U 1 1 5C706FCB
 P 6300 7700
 F 0 "K38" H 6300 8039 60  0000 C CNN
@@ -334,7 +334,7 @@ F 3 "" H 6300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K39
+L MX_Alps_Hybrids:MX-1U K39
 U 1 1 5C706FD1
 P 7300 7700
 F 0 "K39" H 7300 8039 60  0000 C CNN
@@ -345,7 +345,7 @@ F 3 "" H 7300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K40
+L MX_Alps_Hybrids:MX-1U K40
 U 1 1 5C706FD7
 P 8300 7700
 F 0 "K40" H 8300 8039 60  0000 C CNN
@@ -356,7 +356,7 @@ F 3 "" H 8300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K41
+L MX_Alps_Hybrids:MX-1U K41
 U 1 1 5C706FDD
 P 9300 7700
 F 0 "K41" H 9300 8039 60  0000 C CNN
@@ -367,7 +367,7 @@ F 3 "" H 9300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K42
+L MX_Alps_Hybrids:MX-1U K42
 U 1 1 5C706FE3
 P 10300 7700
 F 0 "K42" H 10300 8039 60  0000 C CNN
@@ -378,7 +378,7 @@ F 3 "" H 10300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K43
+L MX_Alps_Hybrids:MX-1U K43
 U 1 1 5C706FE9
 P 11300 7700
 F 0 "K43" H 11300 8039 60  0000 C CNN
@@ -389,7 +389,7 @@ F 3 "" H 11300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K44
+L MX_Alps_Hybrids:MX-1U K44
 U 1 1 5C706FEF
 P 12300 7700
 F 0 "K44" H 12300 8039 60  0000 C CNN
@@ -400,7 +400,7 @@ F 3 "" H 12300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K45
+L MX_Alps_Hybrids:MX-1U K45
 U 1 1 5C706FF5
 P 13300 7700
 F 0 "K45" H 13300 8039 60  0000 C CNN
@@ -411,7 +411,7 @@ F 3 "" H 13300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-ISO-MX_Alps_Hybrids K46
+L MX_Alps_Hybrids:MX-ISO K46
 U 1 1 5C706FFB
 P 14800 7700
 F 0 "K46" H 14800 8039 60  0000 C CNN
@@ -422,7 +422,7 @@ F 3 "" H 14800 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K83
+L MX_Alps_Hybrids:MX-1U K83
 U 1 1 5C707001
 P 16000 9700
 F 0 "K83" H 16000 10039 60  0000 C CNN
@@ -433,7 +433,7 @@ F 3 "" H 16000 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K52
+L MX_Alps_Hybrids:MX-1U K52
 U 1 1 5C8AE443
 P 2300 8700
 F 0 "K52" H 2300 9039 60  0000 C CNN
@@ -444,7 +444,7 @@ F 3 "" H 2300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K53
+L MX_Alps_Hybrids:MX-1U K53
 U 1 1 5C8AE449
 P 3300 8700
 F 0 "K53" H 3300 9039 60  0000 C CNN
@@ -455,7 +455,7 @@ F 3 "" H 3300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K55
+L MX_Alps_Hybrids:MX-1U K55
 U 1 1 5C8AE455
 P 5300 8700
 F 0 "K55" H 5300 9039 60  0000 C CNN
@@ -466,7 +466,7 @@ F 3 "" H 5300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K56
+L MX_Alps_Hybrids:MX-1U K56
 U 1 1 5C8AE45B
 P 6300 8700
 F 0 "K56" H 6300 9039 60  0000 C CNN
@@ -477,7 +477,7 @@ F 3 "" H 6300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K57
+L MX_Alps_Hybrids:MX-1U K57
 U 1 1 5C8AE461
 P 7300 8700
 F 0 "K57" H 7300 9039 60  0000 C CNN
@@ -488,7 +488,7 @@ F 3 "" H 7300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K58
+L MX_Alps_Hybrids:MX-1U K58
 U 1 1 5C8AE467
 P 8300 8700
 F 0 "K58" H 8300 9039 60  0000 C CNN
@@ -499,7 +499,7 @@ F 3 "" H 8300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K59
+L MX_Alps_Hybrids:MX-1U K59
 U 1 1 5C8AE46D
 P 9300 8700
 F 0 "K59" H 9300 9039 60  0000 C CNN
@@ -510,7 +510,7 @@ F 3 "" H 9300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K60
+L MX_Alps_Hybrids:MX-1U K60
 U 1 1 5C8AE473
 P 10300 8700
 F 0 "K60" H 10300 9039 60  0000 C CNN
@@ -521,7 +521,7 @@ F 3 "" H 10300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K61
+L MX_Alps_Hybrids:MX-1U K61
 U 1 1 5C8AE479
 P 11300 8700
 F 0 "K61" H 11300 9039 60  0000 C CNN
@@ -532,7 +532,7 @@ F 3 "" H 11300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K62
+L MX_Alps_Hybrids:MX-1U K62
 U 1 1 5C8AE47F
 P 12300 8700
 F 0 "K62" H 12300 9039 60  0000 C CNN
@@ -543,7 +543,7 @@ F 3 "" H 12300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K63
+L MX_Alps_Hybrids:MX-1U K63
 U 1 1 5C8AE485
 P 13300 8700
 F 0 "K63" H 13300 9039 60  0000 C CNN
@@ -554,7 +554,7 @@ F 3 "" H 13300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.5U-MX_Alps_Hybrids K27
+L MX_Alps_Hybrids:MX-1.5U K27
 U 1 1 5C8AE491
 P 16500 6700
 F 0 "K27" H 16500 7039 60  0000 C CNN
@@ -565,7 +565,7 @@ F 3 "" H 16500 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K85
+L MX_Alps_Hybrids:MX-1U K85
 U 1 1 5C8AE497
 P 18000 9700
 F 0 "K85" H 18000 10039 60  0000 C CNN
@@ -576,7 +576,7 @@ F 3 "" H 18000 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K51
+L MX_Alps_Hybrids:MX-1.25U K51
 U 1 1 5C8AE49D
 P 1300 8700
 F 0 "K51" H 1300 9039 60  0000 C CNN
@@ -587,7 +587,7 @@ F 3 "" H 1300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K72
+L MX_Alps_Hybrids:MX-1U K72
 U 1 1 5C8BA85E
 P 3300 9700
 F 0 "K72" H 3300 10039 60  0000 C CNN
@@ -598,7 +598,7 @@ F 3 "" H 3300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K74
+L MX_Alps_Hybrids:MX-1U K74
 U 1 1 5C8BA86A
 P 5300 9700
 F 0 "K74" H 5300 10039 60  0000 C CNN
@@ -609,7 +609,7 @@ F 3 "" H 5300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K75
+L MX_Alps_Hybrids:MX-1U K75
 U 1 1 5C8BA870
 P 6300 9700
 F 0 "K75" H 6300 10039 60  0000 C CNN
@@ -620,7 +620,7 @@ F 3 "" H 6300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K76
+L MX_Alps_Hybrids:MX-1U K76
 U 1 1 5C8BA876
 P 7300 9700
 F 0 "K76" H 7300 10039 60  0000 C CNN
@@ -631,7 +631,7 @@ F 3 "" H 7300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K77
+L MX_Alps_Hybrids:MX-1U K77
 U 1 1 5C8BA87C
 P 8300 9700
 F 0 "K77" H 8300 10039 60  0000 C CNN
@@ -642,7 +642,7 @@ F 3 "" H 8300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K78
+L MX_Alps_Hybrids:MX-1U K78
 U 1 1 5C8BA882
 P 9300 9700
 F 0 "K78" H 9300 10039 60  0000 C CNN
@@ -653,7 +653,7 @@ F 3 "" H 9300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K80
+L MX_Alps_Hybrids:MX-1U K80
 U 1 1 5C8BA888
 P 11300 9700
 F 0 "K80" H 11300 10039 60  0000 C CNN
@@ -664,7 +664,7 @@ F 3 "" H 11300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K79
+L MX_Alps_Hybrids:MX-1U K79
 U 1 1 5C8BA88E
 P 10300 9700
 F 0 "K79" H 10300 10039 60  0000 C CNN
@@ -675,7 +675,7 @@ F 3 "" H 10300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K81
+L MX_Alps_Hybrids:MX-1U K81
 U 1 1 5C8BA894
 P 12300 9700
 F 0 "K81" H 12300 10039 60  0000 C CNN
@@ -686,7 +686,7 @@ F 3 "" H 12300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-7U-MX_Alps_Hybrids K92
+L MX_Alps_Hybrids:MX-7U K92
 U 1 1 5C8BA8A0
 P 6500 10700
 F 0 "K92" H 6500 11039 60  0000 C CNN
@@ -697,7 +697,7 @@ F 3 "" H 6500 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K26
+L MX_Alps_Hybrids:MX-1U K26
 U 1 1 5C8BA8A6
 P 15300 6700
 F 0 "K26" H 15300 7039 60  0000 C CNN
@@ -708,7 +708,7 @@ F 3 "" H 15300 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K84
+L MX_Alps_Hybrids:MX-1U K84
 U 1 1 5C8BA8AC
 P 17000 9700
 F 0 "K84" H 17000 10039 60  0000 C CNN
@@ -719,7 +719,7 @@ F 3 "" H 17000 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.75U-MX_Alps_Hybrids K70
+L MX_Alps_Hybrids:MX-1.75U K70
 U 1 1 5C8BA8B2
 P 1300 9700
 F 0 "K70" H 1300 10039 60  0000 C CNN
@@ -730,7 +730,7 @@ F 3 "" H 1300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K49
+L MX_Alps_Hybrids:MX-1U K49
 U 1 1 5C8C4823
 P 21200 7700
 F 0 "K49" H 21200 8039 60  0000 C CNN
@@ -741,7 +741,7 @@ F 3 "" H 21200 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K68
+L MX_Alps_Hybrids:MX-1U K68
 U 1 1 5C8C4829
 P 21200 8700
 F 0 "K68" H 21200 9039 60  0000 C CNN
@@ -752,7 +752,7 @@ F 3 "" H 21200 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K88
+L MX_Alps_Hybrids:MX-1U K88
 U 1 1 5C8C482F
 P 21200 9700
 F 0 "K88" H 21200 10039 60  0000 C CNN
@@ -763,7 +763,7 @@ F 3 "" H 21200 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K96
+L MX_Alps_Hybrids:MX-1U K96
 U 1 1 5C8C4835
 P 21200 10700
 F 0 "K96" H 21200 11039 60  0000 C CNN
@@ -774,7 +774,7 @@ F 3 "" H 21200 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K48
+L MX_Alps_Hybrids:MX-1U K48
 U 1 1 5C8C483B
 P 20200 7700
 F 0 "K48" H 20200 8039 60  0000 C CNN
@@ -785,7 +785,7 @@ F 3 "" H 20200 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K67
+L MX_Alps_Hybrids:MX-1U K67
 U 1 1 5C8C4841
 P 20200 8700
 F 0 "K67" H 20200 9039 60  0000 C CNN
@@ -796,7 +796,7 @@ F 3 "" H 20200 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K87
+L MX_Alps_Hybrids:MX-1U K87
 U 1 1 5C8C4847
 P 20200 9700
 F 0 "K87" H 20200 10039 60  0000 C CNN
@@ -807,7 +807,7 @@ F 3 "" H 20200 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-2U-MX_Alps_Hybrids K89
+L MX_Alps_Hybrids:MX-2U K89
 U 1 1 5C8C484D
 P 22200 10100
 F 0 "K89" H 22200 10439 60  0000 C CNN
@@ -818,7 +818,7 @@ F 3 "" H 22200 10100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K47
+L MX_Alps_Hybrids:MX-1U K47
 U 1 1 5C8C4853
 P 19200 7700
 F 0 "K47" H 19200 8039 60  0000 C CNN
@@ -829,7 +829,7 @@ F 3 "" H 19200 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K66
+L MX_Alps_Hybrids:MX-1U K66
 U 1 1 5C8C4859
 P 19200 8700
 F 0 "K66" H 19200 9039 60  0000 C CNN
@@ -840,7 +840,7 @@ F 3 "" H 19200 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K86
+L MX_Alps_Hybrids:MX-1U K86
 U 1 1 5C8C485F
 P 19200 9700
 F 0 "K86" H 19200 10039 60  0000 C CNN
@@ -851,7 +851,7 @@ F 3 "" H 19200 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-2U-MX_Alps_Hybrids K95
+L MX_Alps_Hybrids:MX-2U K95
 U 1 1 5C8C4865
 P 19700 10700
 F 0 "K95" H 19700 11039 60  0000 C CNN
@@ -862,7 +862,7 @@ F 3 "" H 19700 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K50
+L MX_Alps_Hybrids:MX-1U K50
 U 1 1 5C8C486B
 P 22200 7700
 F 0 "K50" H 22200 8039 60  0000 C CNN
@@ -873,7 +873,7 @@ F 3 "" H 22200 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K91
+L MX_Alps_Hybrids:MX-1.25U K91
 U 1 1 5C93F696
 P 2900 10700
 F 0 "K91" H 2900 11039 60  0000 C CNN
@@ -884,7 +884,7 @@ F 3 "" H 2900 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K71
+L MX_Alps_Hybrids:MX-1U K71
 U 1 1 5C9FD949
 P 2300 9700
 F 0 "K71" H 2300 10039 60  0000 C CNN
@@ -895,7 +895,7 @@ F 3 "" H 2300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K31
+L MX_Alps_Hybrids:MX-1U K31
 U 1 1 5CA60B25
 P 21200 6700
 F 0 "K31" H 21200 7039 60  0000 C CNN
@@ -906,7 +906,7 @@ F 3 "" H 21200 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K30
+L MX_Alps_Hybrids:MX-1U K30
 U 1 1 5CA628C4
 P 20200 6700
 F 0 "K30" H 20200 7039 60  0000 C CNN
@@ -917,7 +917,7 @@ F 3 "" H 20200 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K29
+L MX_Alps_Hybrids:MX-1U K29
 U 1 1 5CA6394E
 P 19200 6700
 F 0 "K29" H 19200 7039 60  0000 C CNN
@@ -928,7 +928,7 @@ F 3 "" H 19200 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K69
+L MX_Alps_Hybrids:MX-1U K69
 U 1 1 5CA67D7B
 P 22200 8700
 F 0 "K69" H 22200 9039 60  0000 C CNN
@@ -939,7 +939,7 @@ F 3 "" H 22200 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K94
+L MX_Alps_Hybrids:MX-1.25U K94
 U 1 1 5C703C58
 P 13700 10700
 F 0 "K94" H 13700 11039 60  0000 C CNN
@@ -950,7 +950,7 @@ F 3 "" H 13700 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K93
+L MX_Alps_Hybrids:MX-1.25U K93
 U 1 1 5C707007
 P 12700 10700
 F 0 "K93" H 12700 11039 60  0000 C CNN
@@ -961,7 +961,7 @@ F 3 "" H 12700 10700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K1
+L MX_Alps_Hybrids:MX-1U K1
 U 1 1 5C6EAD3A
 P 1250 5700
 F 0 "K1" H 1250 6039 60  0000 C CNN
@@ -983,7 +983,7 @@ F 3 "~" H 8200 950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K32
+L MX_Alps_Hybrids:MX-1U K32
 U 1 1 5CA5EDCB
 P 22200 6700
 F 0 "K32" H 22200 7039 60  0000 C CNN
@@ -994,7 +994,7 @@ F 3 "" H 22200 6700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K65
+L MX_Alps_Hybrids:MX-1U K65
 U 1 1 5C703C52
 P 17000 8700
 F 0 "K65" H 17000 9039 60  0000 C CNN
@@ -1005,7 +1005,7 @@ F 3 "" H 17000 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K64
+L MX_Alps_Hybrids:MX-1U K64
 U 1 1 5C9F4ADB
 P 14300 8700
 F 0 "K64" H 14300 9039 60  0000 C CNN
@@ -1016,7 +1016,7 @@ F 3 "" H 14300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K7
+L MX_Alps_Hybrids:MX-1.25U K7
 U 1 1 5C700906
 P 9200 5700
 F 0 "K7" H 9200 6039 60  0000 C CNN
@@ -1027,7 +1027,7 @@ F 3 "" H 9200 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K73
+L MX_Alps_Hybrids:MX-1U K73
 U 1 1 5C8BA864
 P 4300 9700
 F 0 "K73" H 4300 10039 60  0000 C CNN
@@ -1038,7 +1038,7 @@ F 3 "" H 4300 9700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K54
+L MX_Alps_Hybrids:MX-1U K54
 U 1 1 5C8AE44F
 P 4300 8700
 F 0 "K54" H 4300 9039 60  0000 C CNN
@@ -1049,7 +1049,7 @@ F 3 "" H 4300 8700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K36
+L MX_Alps_Hybrids:MX-1U K36
 U 1 1 5C706FBF
 P 4300 7700
 F 0 "K36" H 4300 8039 60  0000 C CNN
@@ -1060,7 +1060,7 @@ F 3 "" H 4300 7700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L A1200KB-rescue:MX-1U-MX_Alps_Hybrids K15
+L MX_Alps_Hybrids:MX-1U K15
 U 1 1 5C703C10
 P 4300 6700
 F 0 "K15" H 4300 7039 60  0000 C CNN
@@ -2297,7 +2297,7 @@ Wire Wire Line
 Wire Wire Line
 	2175 10675 2075 10675
 $Comp
-L A1200KB-rescue:MX-1.25U-MX_Alps_Hybrids K90
+L MX_Alps_Hybrids:MX-1.25U K90
 U 1 1 5C8C4871
 P 1900 10700
 F 0 "K90" H 1900 11039 60  0000 C CNN
