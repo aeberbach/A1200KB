@@ -2,11 +2,7 @@
 
 This PCB design was reverse-engineered from the original keyboard in an Amiga 1200. It is designed to connect to your Amiga 1200 with no modifications to the original machine, just take out the original keyboard and store it away safely. If you want an A600 keyboard, see my other repositories.
 
-<<<<<<< Updated upstream
-![PCB](https://aeberbach.github.io/images/2020-02-11-a1200complete/keyboard-thumb.jpeg)
-=======
 ![PCB](https://aeberbach.github.io/images/2019-07-18-a1200-kbd-9/thumb-kbd-in-case.jpg)
->>>>>>> Stashed changes
 
 ## Requirements
 To make a working keyboard for your Amiga 1200, you need:
