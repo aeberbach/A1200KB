@@ -2,7 +2,11 @@
 
 This PCB design was reverse-engineered from the original keyboard in an Amiga 1200. It is designed to connect to your Amiga 1200 with no modifications to the original machine, just take out the original keyboard and store it away safely. If you want an A600 keyboard, see my other repositories.
 
+<<<<<<< Updated upstream
 ![PCB](https://aeberbach.github.io/images/2020-02-11-a1200complete/keyboard-thumb.jpeg)
+=======
+![PCB](https://aeberbach.github.io/images/2019-07-18-a1200-kbd-9/thumb-kbd-in-case.jpg)
+>>>>>>> Stashed changes
 
 ## Requirements
 To make a working keyboard for your Amiga 1200, you need:
@@ -25,6 +29,8 @@ These aren't available. I'm making some using a blank set of keycaps from aliexp
 ## Construction
 Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. Mounting the keyboard requires 3D printing the files you will find in the 3Dfiles folder.
 
+If you have a replacement case produced by A1200.net then pick that folder, else the other folder. I don't know about cases made by ESCOM but I don't think they are at all different from the Commodore cases. I printed these in PLA, 0.4mm nozzle, 0.2mm layer height, supports are necessary. Mounting the keyboard with these designs allows the use of an accelerator card with a thick SIMM; I may design alternates if I get a slimmer accelerator, bringing the keys further back into the case but there is not much room.
+ 
 You can damage your Amiga if you don't know what you are doing. Please be careful and if you are not experienced in projects like this get some help, maybe vist your local makerspace, and don't hurt yourself or your computer.
 
 ## Share
