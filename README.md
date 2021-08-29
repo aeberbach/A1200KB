@@ -4,11 +4,11 @@ As of right now this is revision 4. I know it could be improved very, very sligh
 
 This PCB design was reverse-engineered from the original keyboard in an Amiga 1200. It is designed to connect to your Amiga 1200 with no modifications to the original machine, just take out the original keyboard and store it away safely. If you want an A600 keyboard, see my other repositories.
 
-![PCB](images/A1200net.jpeg)
+![PCB](images/A1200net.JPEG)
 
 The original Amiga case (with CF disk system and transparent floppy cover)
 
-![PCB](images/Original.jpeg)
+![PCB](images/Original.JPEG)
 
 The A1200.net case (with internal PSU and partially-completed ReAmiga board)
 
