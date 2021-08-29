@@ -6,11 +6,11 @@ This PCB design was reverse-engineered from the original keyboard in an Amiga 12
 
 ![PCB](images/A1200net.JPEG)
 
-The original Amiga case (with CF disk system and transparent floppy cover)
+The A1200.net case (with internal PSU and partially-completed ReAmiga board)
 
 ![PCB](images/Original.JPEG)
 
-The A1200.net case (with internal PSU and partially-completed ReAmiga board)
+The original Amiga case (with CF disk system and transparent floppy cover)
 
 ## Requirements
 To make a working keyboard for your Amiga 1200, you need:
