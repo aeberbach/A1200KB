@@ -1,8 +1,16 @@
 # A1200KB Amiga 1200 mechanical keyboard
 
+As of right now this is revision 4. I know it could be improved very, very slightly by changing the position of key groups by less than a millimetre but I think it's complete now. 
+
 This PCB design was reverse-engineered from the original keyboard in an Amiga 1200. It is designed to connect to your Amiga 1200 with no modifications to the original machine, just take out the original keyboard and store it away safely. If you want an A600 keyboard, see my other repositories.
 
-![PCB](https://aeberbach.github.io/images/2019-07-18-a1200-kbd-9/thumb-kbd-in-case.jpg)
+![PCB](images/A1200net.jpeg)
+
+The original Amiga case (with CF disk system and transparent floppy cover)
+
+![PCB](images/Original.jpeg)
+
+The A1200.net case (with internal PSU and partially-completed ReAmiga board)
 
 ## Requirements
 To make a working keyboard for your Amiga 1200, you need:
@@ -22,6 +30,8 @@ I had my boards made with 2mm PCB substrate, no other special options. Using a t
 ### Amiga Keycaps
 These aren't available. I'm making some using a blank set of keycaps from aliexpress and a laser etcher, but I do not know of anywhere that sells a MX-stem set of Amiga keycaps. The space bar on this PCB has a dual-footprint space bar. I am using a 9U space bar for which there are also stabilizer mounts provided, but you can just as easily use 7U. If gaps either side of the space bother you, 3D print something to fill the space.
 
+If you want a perfect set of keys, visit pimpmykeyboard.com - it will nto be cheap but if you look hard enough you will find every key, even the Amiga keys, and you can have any legend printed on any size keycap so it is possible to make a perfect set. It will not be cheap.
+
 ## Construction
 Without going into all the detail here - as there is lots of detail on www.grayunicorn.com - I rate this a mid-level project. There is no power, no delicate soldering, and nothing can really be inserted the wrong way. Mounting the keyboard requires 3D printing the files you will find in the 3Dfiles folder.
 
@@ -33,7 +43,6 @@ You can damage your Amiga if you don't know what you are doing. Please be carefu
 Most of all - if you have any suggestions for improvements, adding an issue or a pull request to this repo would be much appreciated. And share your project with the Amiga community, I'd really like to see what you made.
 
 #### Donate?
-
 I hate to think what this has cost so far. It's been fun and I'd do it again, but if you'd like to help the next project happen that would be awesome.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/grayunicorn)
