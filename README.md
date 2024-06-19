@@ -1,4 +1,4 @@
-# A1200KB Amiga 1200 mechanical keyboard
+# A1200KB Mechanical keyboard for Amiga A1200
 
 As of right now this is revision 4. I know it could be improved very, very slightly by changing the position of key groups by less than a millimetre but I think it's complete now. 
 
