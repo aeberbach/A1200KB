@@ -46,3 +46,5 @@ Most of all - if you have any suggestions for improvements, adding an issue or a
 I hate to think what this has cost so far. It's been fun and I'd do it again, but if you'd like to help the next project happen that would be awesome.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/grayunicorn)
+
+Note this this project is licensed under CC BY-NC-SA 4.0 - only noncommercial use is permitted! (By all means sell the excess PCBs you get, at cost, if you order some for your own use)
