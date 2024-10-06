@@ -16,7 +16,7 @@ The original Amiga case (with CF disk system and transparent floppy cover)
 To make a working keyboard for your Amiga 1200, you need:
 
 - one PCB (this project)
-- MX-compatible PCB-mount keyswitches, one for each key
+- 96 pieces MX-compatible PCB-mount (5-pin) keyswitch
 - one LED (caps lock)
 - one FFC connector, 32-way RA 1.25mm pitch. Molex 52044-3245 is one example, available from Mouser Electronics.
 - one FFC ribbon cable, 32-way, 1.25mm pitch. Molex 15168-0400 is one example, available from Mouser Electronics.
